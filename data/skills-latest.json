@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-27T08:00:02.061Z",
-  "count": 134,
+  "generatedAt": "2026-10-28T08:42:30.523Z",
+  "count": 135,
   "unrankedCount": 8,
   "rankingRule": "Only rows with downloads, installs, or stars greater than 0 are ranked.",
   "skills": [
@@ -15,10 +15,10 @@
         "skills"
       ],
       "category": "Coding",
-      "downloads": 4062913,
-      "installs": 4062913,
+      "downloads": 4082739,
+      "installs": 4082739,
       "stars": 0,
-      "views": 4062913,
+      "views": 4082739,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -30,11 +30,11 @@
         }
       },
       "id": "skills-sh-find-skills-https://skills.sh/vercel-labs/skills/find-skills",
-      "createdAt": "2026-10-27T07:59:56.656Z",
-      "updatedAt": "2026-10-27T07:59:56.656Z",
+      "createdAt": "2026-10-28T08:42:23.232Z",
+      "updatedAt": "2026-10-28T08:42:23.232Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 4704
+      "trendingScore": 4705
     },
     {
       "name": "grill-me",
@@ -47,10 +47,10 @@
         "skills"
       ],
       "category": "Coding",
-      "downloads": 1441789,
-      "installs": 1441789,
+      "downloads": 1448669,
+      "installs": 1448669,
       "stars": 0,
-      "views": 1441789,
+      "views": 1448669,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -62,11 +62,11 @@
         }
       },
       "id": "skills-sh-grill-me-https://skills.sh/mattpocock/skills/grill-me",
-      "createdAt": "2026-10-27T07:59:56.761Z",
-      "updatedAt": "2026-10-27T07:59:56.761Z",
+      "createdAt": "2026-10-28T08:42:23.299Z",
+      "updatedAt": "2026-10-28T08:42:23.299Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 4398
+      "trendingScore": 4399
     },
     {
       "name": "hyperframes-cli",
@@ -79,10 +79,10 @@
         "hyperframes"
       ],
       "category": "Coding",
-      "downloads": 1268544,
-      "installs": 1268544,
+      "downloads": 1290041,
+      "installs": 1290041,
       "stars": 0,
-      "views": 1268544,
+      "views": 1290041,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -94,11 +94,11 @@
         }
       },
       "id": "skills-sh-hyperframes-cli-https://skills.sh/heygen-com/hyperframes/hyperframes-cli",
-      "createdAt": "2026-10-27T07:59:56.633Z",
-      "updatedAt": "2026-10-27T07:59:56.633Z",
+      "createdAt": "2026-10-28T08:42:23.212Z",
+      "updatedAt": "2026-10-28T08:42:23.212Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 4360
+      "trendingScore": 4365
     },
     {
       "name": "agent-browser",
@@ -111,10 +111,10 @@
         "agent-browser"
       ],
       "category": "Browser Automation",
-      "downloads": 1261589,
-      "installs": 1261589,
+      "downloads": 1275115,
+      "installs": 1275115,
       "stars": 0,
-      "views": 1261589,
+      "views": 1275115,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -126,11 +126,11 @@
         }
       },
       "id": "skills-sh-agent-browser-https://skills.sh/vercel-labs/agent-browser/agent-browser",
-      "createdAt": "2026-10-27T07:59:56.657Z",
-      "updatedAt": "2026-10-27T07:59:56.657Z",
+      "createdAt": "2026-10-28T08:42:23.133Z",
+      "updatedAt": "2026-10-28T08:42:23.133Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 4359
+      "trendingScore": 4362
     },
     {
       "name": "hyperframes",
@@ -143,10 +143,10 @@
         "hyperframes"
       ],
       "category": "Coding",
-      "downloads": 1236386,
-      "installs": 1236386,
+      "downloads": 1256350,
+      "installs": 1256350,
       "stars": 0,
-      "views": 1236386,
+      "views": 1256350,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -158,11 +158,11 @@
         }
       },
       "id": "skills-sh-hyperframes-https://skills.sh/heygen-com/hyperframes/hyperframes",
-      "createdAt": "2026-10-27T07:59:56.610Z",
-      "updatedAt": "2026-10-27T07:59:56.610Z",
+      "createdAt": "2026-10-28T08:42:23.204Z",
+      "updatedAt": "2026-10-28T08:42:23.204Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 4353
+      "trendingScore": 4357
     },
     {
       "name": "grill-with-docs",
@@ -175,10 +175,10 @@
         "skills"
       ],
       "category": "Research",
-      "downloads": 1234278,
-      "installs": 1234278,
+      "downloads": 1240388,
+      "installs": 1240388,
       "stars": 0,
-      "views": 1234278,
+      "views": 1240388,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -190,11 +190,11 @@
         }
       },
       "id": "skills-sh-grill-with-docs-https://skills.sh/mattpocock/skills/grill-with-docs",
-      "createdAt": "2026-10-27T07:59:56.714Z",
-      "updatedAt": "2026-10-27T07:59:56.714Z",
+      "createdAt": "2026-10-28T08:42:23.315Z",
+      "updatedAt": "2026-10-28T08:42:23.315Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 4352
+      "trendingScore": 4354
     },
     {
       "name": "media-use",
@@ -207,10 +207,10 @@
         "hyperframes"
       ],
       "category": "Coding",
-      "downloads": 1140843,
-      "installs": 1140843,
+      "downloads": 1161284,
+      "installs": 1161284,
       "stars": 0,
-      "views": 1140843,
+      "views": 1161284,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -222,11 +222,43 @@
         }
       },
       "id": "skills-sh-media-use-https://skills.sh/heygen-com/hyperframes/media-use",
-      "createdAt": "2026-10-27T07:59:56.632Z",
-      "updatedAt": "2026-10-27T07:59:56.632Z",
+      "createdAt": "2026-10-28T08:42:23.232Z",
+      "updatedAt": "2026-10-28T08:42:23.232Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 4329
+      "trendingScore": 4334
+    },
+    {
+      "name": "tdd",
+      "description": "Real Skills.sh listing at /mattpocock/skills/tdd. Installs are parsed from the page's public schema.org InstallAction metadata.",
+      "platform": "skills-sh",
+      "sourceUrl": "https://skills.sh/mattpocock/skills/tdd",
+      "tags": [
+        "skills.sh",
+        "mattpocock",
+        "skills"
+      ],
+      "category": "Coding",
+      "downloads": 1159715,
+      "installs": 1159715,
+      "stars": 0,
+      "views": 1159715,
+      "metricEvidence": {
+        "installs": {
+          "source": "Skills.sh JSON-LD",
+          "url": "https://skills.sh/mattpocock/skills/tdd"
+        },
+        "downloads": {
+          "source": "Skills.sh installs used as install/download signal",
+          "url": "https://skills.sh/mattpocock/skills/tdd"
+        }
+      },
+      "id": "skills-sh-tdd-https://skills.sh/mattpocock/skills/tdd",
+      "createdAt": "2026-10-28T08:42:23.351Z",
+      "updatedAt": "2026-10-28T08:42:23.351Z",
+      "rankDelta": 0,
+      "isNewEntrant": false,
+      "trendingScore": 4334
     },
     {
       "name": "reddit-automation",
@@ -239,10 +271,10 @@
         "skills"
       ],
       "category": "Coding",
-      "downloads": 1115432,
-      "installs": 1115432,
+      "downloads": 1131823,
+      "installs": 1131823,
       "stars": 0,
-      "views": 1115432,
+      "views": 1131823,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -254,11 +286,11 @@
         }
       },
       "id": "skills-sh-reddit-automation-https://skills.sh/flowkit-labs/skills/reddit-automation",
-      "createdAt": "2026-10-27T07:59:56.714Z",
-      "updatedAt": "2026-10-27T07:59:56.714Z",
+      "createdAt": "2026-10-28T08:42:23.339Z",
+      "updatedAt": "2026-10-28T08:42:23.339Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 4322
+      "trendingScore": 4327
     },
     {
       "name": "design-mobile-apps",
@@ -271,10 +303,10 @@
         "skills"
       ],
       "category": "Coding",
-      "downloads": 1056817,
-      "installs": 1056817,
+      "downloads": 1077503,
+      "installs": 1077503,
       "stars": 0,
-      "views": 1056817,
+      "views": 1077503,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -286,43 +318,43 @@
         }
       },
       "id": "skills-sh-design-mobile-apps-https://skills.sh/designed-by-ai/skills/design-mobile-apps",
-      "createdAt": "2026-10-27T07:59:56.611Z",
-      "updatedAt": "2026-10-27T07:59:56.611Z",
+      "createdAt": "2026-10-28T08:42:23.202Z",
+      "updatedAt": "2026-10-28T08:42:23.202Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 4306
+      "trendingScore": 4312
     },
     {
-      "name": "frontend-design",
-      "description": "Real Skills.sh listing at /anthropics/skills/frontend-design. Installs are parsed from the page's public schema.org InstallAction metadata.",
+      "name": "setup-matt-pocock-skills",
+      "description": "Real Skills.sh listing at /mattpocock/skills/setup-matt-pocock-skills. Installs are parsed from the page's public schema.org InstallAction metadata.",
       "platform": "skills-sh",
-      "sourceUrl": "https://skills.sh/anthropics/skills/frontend-design",
+      "sourceUrl": "https://skills.sh/mattpocock/skills/setup-matt-pocock-skills",
       "tags": [
         "skills.sh",
-        "anthropics",
+        "mattpocock",
         "skills"
       ],
       "category": "Coding",
-      "downloads": 1037548,
-      "installs": 1037548,
+      "downloads": 1070853,
+      "installs": 1070853,
       "stars": 0,
-      "views": 1037548,
+      "views": 1070853,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
-          "url": "https://skills.sh/anthropics/skills/frontend-design"
+          "url": "https://skills.sh/mattpocock/skills/setup-matt-pocock-skills"
         },
         "downloads": {
           "source": "Skills.sh installs used as install/download signal",
-          "url": "https://skills.sh/anthropics/skills/frontend-design"
+          "url": "https://skills.sh/mattpocock/skills/setup-matt-pocock-skills"
         }
       },
-      "id": "skills-sh-frontend-design-https://skills.sh/anthropics/skills/frontend-design",
-      "createdAt": "2026-10-27T07:59:56.794Z",
-      "updatedAt": "2026-10-27T07:59:56.794Z",
+      "id": "skills-sh-setup-matt-pocock-skills-https://skills.sh/mattpocock/skills/setup-matt-pocock-skills",
+      "createdAt": "2026-10-28T08:42:23.342Z",
+      "updatedAt": "2026-10-28T08:42:23.342Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 4301
+      "trendingScore": 4310
     },
     {
       "name": "hyperframes-registry",
@@ -335,10 +367,10 @@
         "hyperframes"
       ],
       "category": "Coding",
-      "downloads": 1032356,
-      "installs": 1032356,
+      "downloads": 1051828,
+      "installs": 1051828,
       "stars": 0,
-      "views": 1032356,
+      "views": 1051828,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -350,11 +382,43 @@
         }
       },
       "id": "skills-sh-hyperframes-registry-https://skills.sh/heygen-com/hyperframes/hyperframes-registry",
-      "createdAt": "2026-10-27T07:59:56.640Z",
-      "updatedAt": "2026-10-27T07:59:56.640Z",
+      "createdAt": "2026-10-28T08:42:23.286Z",
+      "updatedAt": "2026-10-28T08:42:23.286Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 4299
+      "trendingScore": 4305
+    },
+    {
+      "name": "frontend-design",
+      "description": "Real Skills.sh listing at /anthropics/skills/frontend-design. Installs are parsed from the page's public schema.org InstallAction metadata.",
+      "platform": "skills-sh",
+      "sourceUrl": "https://skills.sh/anthropics/skills/frontend-design",
+      "tags": [
+        "skills.sh",
+        "anthropics",
+        "skills"
+      ],
+      "category": "Coding",
+      "downloads": 1042235,
+      "installs": 1042235,
+      "stars": 0,
+      "views": 1042235,
+      "metricEvidence": {
+        "installs": {
+          "source": "Skills.sh JSON-LD",
+          "url": "https://skills.sh/anthropics/skills/frontend-design"
+        },
+        "downloads": {
+          "source": "Skills.sh installs used as install/download signal",
+          "url": "https://skills.sh/anthropics/skills/frontend-design"
+        }
+      },
+      "id": "skills-sh-frontend-design-https://skills.sh/anthropics/skills/frontend-design",
+      "createdAt": "2026-10-28T08:42:23.341Z",
+      "updatedAt": "2026-10-28T08:42:23.341Z",
+      "rankDelta": 0,
+      "isNewEntrant": false,
+      "trendingScore": 4302
     },
     {
       "name": "grilling",
@@ -367,10 +431,10 @@
         "skills"
       ],
       "category": "Coding",
-      "downloads": 995635,
-      "installs": 995635,
+      "downloads": 1003025,
+      "installs": 1003025,
       "stars": 0,
-      "views": 995635,
+      "views": 1003025,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -382,11 +446,11 @@
         }
       },
       "id": "skills-sh-grilling-https://skills.sh/mattpocock/skills/grilling",
-      "createdAt": "2026-10-27T07:59:56.749Z",
-      "updatedAt": "2026-10-27T07:59:56.749Z",
+      "createdAt": "2026-10-28T08:42:23.333Z",
+      "updatedAt": "2026-10-28T08:42:23.333Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 4289
+      "trendingScore": 4291
     },
     {
       "name": "domain-modeling",
@@ -399,10 +463,10 @@
         "skills"
       ],
       "category": "Coding",
-      "downloads": 890125,
-      "installs": 890125,
+      "downloads": 896119,
+      "installs": 896119,
       "stars": 0,
-      "views": 890125,
+      "views": 896119,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -414,11 +478,11 @@
         }
       },
       "id": "skills-sh-domain-modeling-https://skills.sh/mattpocock/skills/domain-modeling",
-      "createdAt": "2026-10-27T07:59:56.724Z",
-      "updatedAt": "2026-10-27T07:59:56.724Z",
+      "createdAt": "2026-10-28T08:42:23.299Z",
+      "updatedAt": "2026-10-28T08:42:23.299Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 4256
+      "trendingScore": 4258
     },
     {
       "name": "ai-video-generation",
@@ -431,10 +495,10 @@
         "superpowers"
       ],
       "category": "Coding",
-      "downloads": 881221,
-      "installs": 881221,
+      "downloads": 891153,
+      "installs": 891153,
       "stars": 0,
-      "views": 881221,
+      "views": 891153,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -446,11 +510,11 @@
         }
       },
       "id": "skills-sh-ai-video-generation-https://skills.sh/101-skills/superpowers/ai-video-generation",
-      "createdAt": "2026-10-27T07:59:56.692Z",
-      "updatedAt": "2026-10-27T07:59:56.692Z",
+      "createdAt": "2026-10-28T08:42:23.191Z",
+      "updatedAt": "2026-10-28T08:42:23.191Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 4253
+      "trendingScore": 4256
     },
     {
       "name": "ai-image-generation",
@@ -463,10 +527,10 @@
         "superpowers"
       ],
       "category": "Coding",
-      "downloads": 880031,
-      "installs": 880031,
+      "downloads": 889719,
+      "installs": 889719,
       "stars": 0,
-      "views": 880031,
+      "views": 889719,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -478,11 +542,11 @@
         }
       },
       "id": "skills-sh-ai-image-generation-https://skills.sh/101-skills/superpowers/ai-image-generation",
-      "createdAt": "2026-10-27T07:59:56.715Z",
-      "updatedAt": "2026-10-27T07:59:56.715Z",
+      "createdAt": "2026-10-28T08:42:23.293Z",
+      "updatedAt": "2026-10-28T08:42:23.293Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 4252
+      "trendingScore": 4255
     },
     {
       "name": "ai-avatar-video",
@@ -495,10 +559,10 @@
         "superpowers"
       ],
       "category": "Coding",
-      "downloads": 879299,
-      "installs": 879299,
+      "downloads": 889121,
+      "installs": 889121,
       "stars": 0,
-      "views": 879299,
+      "views": 889121,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -510,11 +574,11 @@
         }
       },
       "id": "skills-sh-ai-avatar-video-https://skills.sh/101-skills/superpowers/ai-avatar-video",
-      "createdAt": "2026-10-27T07:59:56.719Z",
-      "updatedAt": "2026-10-27T07:59:56.719Z",
+      "createdAt": "2026-10-28T08:42:23.319Z",
+      "updatedAt": "2026-10-28T08:42:23.319Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 4252
+      "trendingScore": 4255
     },
     {
       "name": "twitter-automation",
@@ -527,10 +591,10 @@
         "superpowers"
       ],
       "category": "Coding",
-      "downloads": 879562,
-      "installs": 879562,
+      "downloads": 889379,
+      "installs": 889379,
       "stars": 0,
-      "views": 879562,
+      "views": 889379,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -542,75 +606,11 @@
         }
       },
       "id": "skills-sh-twitter-automation-https://skills.sh/101-skills/superpowers/twitter-automation",
-      "createdAt": "2026-10-27T07:59:56.705Z",
-      "updatedAt": "2026-10-27T07:59:56.705Z",
+      "createdAt": "2026-10-28T08:42:23.364Z",
+      "updatedAt": "2026-10-28T08:42:23.364Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 4252
-    },
-    {
-      "name": "codebase-design",
-      "description": "Real Skills.sh listing at /mattpocock/skills/codebase-design. Installs are parsed from the page's public schema.org InstallAction metadata.",
-      "platform": "skills-sh",
-      "sourceUrl": "https://skills.sh/mattpocock/skills/codebase-design",
-      "tags": [
-        "skills.sh",
-        "mattpocock",
-        "skills"
-      ],
-      "category": "Coding",
-      "downloads": 863355,
-      "installs": 863355,
-      "stars": 0,
-      "views": 863355,
-      "metricEvidence": {
-        "installs": {
-          "source": "Skills.sh JSON-LD",
-          "url": "https://skills.sh/mattpocock/skills/codebase-design"
-        },
-        "downloads": {
-          "source": "Skills.sh installs used as install/download signal",
-          "url": "https://skills.sh/mattpocock/skills/codebase-design"
-        }
-      },
-      "id": "skills-sh-codebase-design-https://skills.sh/mattpocock/skills/codebase-design",
-      "createdAt": "2026-10-27T07:59:56.747Z",
-      "updatedAt": "2026-10-27T07:59:56.747Z",
-      "rankDelta": 0,
-      "isNewEntrant": false,
-      "trendingScore": 4247
-    },
-    {
-      "name": "diagnosing-bugs",
-      "description": "Real Skills.sh listing at /mattpocock/skills/diagnosing-bugs. Installs are parsed from the page's public schema.org InstallAction metadata.",
-      "platform": "skills-sh",
-      "sourceUrl": "https://skills.sh/mattpocock/skills/diagnosing-bugs",
-      "tags": [
-        "skills.sh",
-        "mattpocock",
-        "skills"
-      ],
-      "category": "Coding",
-      "downloads": 847936,
-      "installs": 847936,
-      "stars": 0,
-      "views": 847936,
-      "metricEvidence": {
-        "installs": {
-          "source": "Skills.sh JSON-LD",
-          "url": "https://skills.sh/mattpocock/skills/diagnosing-bugs"
-        },
-        "downloads": {
-          "source": "Skills.sh installs used as install/download signal",
-          "url": "https://skills.sh/mattpocock/skills/diagnosing-bugs"
-        }
-      },
-      "id": "skills-sh-diagnosing-bugs-https://skills.sh/mattpocock/skills/diagnosing-bugs",
-      "createdAt": "2026-10-27T07:59:56.750Z",
-      "updatedAt": "2026-10-27T07:59:56.750Z",
-      "rankDelta": 0,
-      "isNewEntrant": false,
-      "trendingScore": 4241
+      "trendingScore": 4255
     },
     {
       "name": "vercel-react-best-practices",
@@ -623,10 +623,10 @@
         "agent-skills"
       ],
       "category": "Agent Workflow",
-      "downloads": 842856,
-      "installs": 842856,
+      "downloads": 846676,
+      "installs": 846676,
       "stars": 0,
-      "views": 842856,
+      "views": 846676,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -638,43 +638,11 @@
         }
       },
       "id": "skills-sh-vercel-react-best-practices-https://skills.sh/vercel-labs/agent-skills/vercel-react-best-practices",
-      "createdAt": "2026-10-27T07:59:56.768Z",
-      "updatedAt": "2026-10-27T07:59:56.768Z",
+      "createdAt": "2026-10-28T08:42:23.348Z",
+      "updatedAt": "2026-10-28T08:42:23.348Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 4240
-    },
-    {
-      "name": "code-review",
-      "description": "Real Skills.sh listing at /mattpocock/skills/code-review. Installs are parsed from the page's public schema.org InstallAction metadata.",
-      "platform": "skills-sh",
-      "sourceUrl": "https://skills.sh/mattpocock/skills/code-review",
-      "tags": [
-        "skills.sh",
-        "mattpocock",
-        "skills"
-      ],
-      "category": "Coding",
-      "downloads": 802645,
-      "installs": 802645,
-      "stars": 0,
-      "views": 802645,
-      "metricEvidence": {
-        "installs": {
-          "source": "Skills.sh JSON-LD",
-          "url": "https://skills.sh/mattpocock/skills/code-review"
-        },
-        "downloads": {
-          "source": "Skills.sh installs used as install/download signal",
-          "url": "https://skills.sh/mattpocock/skills/code-review"
-        }
-      },
-      "id": "skills-sh-code-review-https://skills.sh/mattpocock/skills/code-review",
-      "createdAt": "2026-10-27T07:59:56.756Z",
-      "updatedAt": "2026-10-27T07:59:56.756Z",
-      "rankDelta": 0,
-      "isNewEntrant": false,
-      "trendingScore": 4225
+      "trendingScore": 4241
     },
     {
       "name": "web-design-guidelines",
@@ -687,10 +655,10 @@
         "agent-skills"
       ],
       "category": "Agent Workflow",
-      "downloads": 789286,
-      "installs": 789286,
+      "downloads": 794148,
+      "installs": 794148,
       "stars": 0,
-      "views": 789286,
+      "views": 794148,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -702,43 +670,11 @@
         }
       },
       "id": "skills-sh-web-design-guidelines-https://skills.sh/vercel-labs/agent-skills/web-design-guidelines",
-      "createdAt": "2026-10-27T07:59:56.758Z",
-      "updatedAt": "2026-10-27T07:59:56.758Z",
+      "createdAt": "2026-10-28T08:42:23.315Z",
+      "updatedAt": "2026-10-28T08:42:23.315Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 4220
-    },
-    {
-      "name": "ask-matt",
-      "description": "Real Skills.sh listing at /mattpocock/skills/ask-matt. Installs are parsed from the page's public schema.org InstallAction metadata.",
-      "platform": "skills-sh",
-      "sourceUrl": "https://skills.sh/mattpocock/skills/ask-matt",
-      "tags": [
-        "skills.sh",
-        "mattpocock",
-        "skills"
-      ],
-      "category": "Coding",
-      "downloads": 777951,
-      "installs": 777951,
-      "stars": 0,
-      "views": 777951,
-      "metricEvidence": {
-        "installs": {
-          "source": "Skills.sh JSON-LD",
-          "url": "https://skills.sh/mattpocock/skills/ask-matt"
-        },
-        "downloads": {
-          "source": "Skills.sh installs used as install/download signal",
-          "url": "https://skills.sh/mattpocock/skills/ask-matt"
-        }
-      },
-      "id": "skills-sh-ask-matt-https://skills.sh/mattpocock/skills/ask-matt",
-      "createdAt": "2026-10-27T07:59:56.782Z",
-      "updatedAt": "2026-10-27T07:59:56.782Z",
-      "rankDelta": 0,
-      "isNewEntrant": false,
-      "trendingScore": 4216
+      "trendingScore": 4222
     },
     {
       "name": "ai-image-generation",
@@ -751,10 +687,10 @@
         "superpowers"
       ],
       "category": "Agent Workflow",
-      "downloads": 771972,
-      "installs": 771972,
+      "downloads": 781394,
+      "installs": 781394,
       "stars": 0,
-      "views": 771972,
+      "views": 781394,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -766,107 +702,11 @@
         }
       },
       "id": "skills-sh-ai-image-generation-https://skills.sh/magentosh/superpowers/ai-image-generation",
-      "createdAt": "2026-10-27T07:59:56.699Z",
-      "updatedAt": "2026-10-27T07:59:56.699Z",
+      "createdAt": "2026-10-28T08:42:23.349Z",
+      "updatedAt": "2026-10-28T08:42:23.349Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 4214
-    },
-    {
-      "name": "ai-video-generation",
-      "description": "Real Skills.sh listing at /magentosh/superpowers/ai-video-generation. Installs are parsed from the page's public schema.org InstallAction metadata.",
-      "platform": "skills-sh",
-      "sourceUrl": "https://skills.sh/magentosh/superpowers/ai-video-generation",
-      "tags": [
-        "skills.sh",
-        "magentosh",
-        "superpowers"
-      ],
-      "category": "Agent Workflow",
-      "downloads": 771574,
-      "installs": 771574,
-      "stars": 0,
-      "views": 771574,
-      "metricEvidence": {
-        "installs": {
-          "source": "Skills.sh JSON-LD",
-          "url": "https://skills.sh/magentosh/superpowers/ai-video-generation"
-        },
-        "downloads": {
-          "source": "Skills.sh installs used as install/download signal",
-          "url": "https://skills.sh/magentosh/superpowers/ai-video-generation"
-        }
-      },
-      "id": "skills-sh-ai-video-generation-https://skills.sh/magentosh/superpowers/ai-video-generation",
-      "createdAt": "2026-10-27T07:59:56.703Z",
-      "updatedAt": "2026-10-27T07:59:56.703Z",
-      "rankDelta": 0,
-      "isNewEntrant": false,
-      "trendingScore": 4213
-    },
-    {
-      "name": "twitter-automation",
-      "description": "Real Skills.sh listing at /magentosh/superpowers/twitter-automation. Installs are parsed from the page's public schema.org InstallAction metadata.",
-      "platform": "skills-sh",
-      "sourceUrl": "https://skills.sh/magentosh/superpowers/twitter-automation",
-      "tags": [
-        "skills.sh",
-        "magentosh",
-        "superpowers"
-      ],
-      "category": "Agent Workflow",
-      "downloads": 771013,
-      "installs": 771013,
-      "stars": 0,
-      "views": 771013,
-      "metricEvidence": {
-        "installs": {
-          "source": "Skills.sh JSON-LD",
-          "url": "https://skills.sh/magentosh/superpowers/twitter-automation"
-        },
-        "downloads": {
-          "source": "Skills.sh installs used as install/download signal",
-          "url": "https://skills.sh/magentosh/superpowers/twitter-automation"
-        }
-      },
-      "id": "skills-sh-twitter-automation-https://skills.sh/magentosh/superpowers/twitter-automation",
-      "createdAt": "2026-10-27T07:59:56.706Z",
-      "updatedAt": "2026-10-27T07:59:56.706Z",
-      "rankDelta": 0,
-      "isNewEntrant": false,
-      "trendingScore": 4213
-    },
-    {
-      "name": "ai-avatar-video",
-      "description": "Real Skills.sh listing at /magentosh/superpowers/ai-avatar-video. Installs are parsed from the page's public schema.org InstallAction metadata.",
-      "platform": "skills-sh",
-      "sourceUrl": "https://skills.sh/magentosh/superpowers/ai-avatar-video",
-      "tags": [
-        "skills.sh",
-        "magentosh",
-        "superpowers"
-      ],
-      "category": "Agent Workflow",
-      "downloads": 771277,
-      "installs": 771277,
-      "stars": 0,
-      "views": 771277,
-      "metricEvidence": {
-        "installs": {
-          "source": "Skills.sh JSON-LD",
-          "url": "https://skills.sh/magentosh/superpowers/ai-avatar-video"
-        },
-        "downloads": {
-          "source": "Skills.sh installs used as install/download signal",
-          "url": "https://skills.sh/magentosh/superpowers/ai-avatar-video"
-        }
-      },
-      "id": "skills-sh-ai-avatar-video-https://skills.sh/magentosh/superpowers/ai-avatar-video",
-      "createdAt": "2026-10-27T07:59:56.721Z",
-      "updatedAt": "2026-10-27T07:59:56.721Z",
-      "rankDelta": 0,
-      "isNewEntrant": false,
-      "trendingScore": 4213
+      "trendingScore": 4217
     },
     {
       "name": "to-tickets",
@@ -879,10 +719,10 @@
         "skills"
       ],
       "category": "Coding",
-      "downloads": 722754,
-      "installs": 722754,
+      "downloads": 728217,
+      "installs": 728217,
       "stars": 0,
-      "views": 722754,
+      "views": 728217,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -894,11 +734,11 @@
         }
       },
       "id": "skills-sh-to-tickets-https://skills.sh/mattpocock/skills/to-tickets",
-      "createdAt": "2026-10-27T07:59:56.737Z",
-      "updatedAt": "2026-10-27T07:59:56.737Z",
+      "createdAt": "2026-10-28T08:42:23.340Z",
+      "updatedAt": "2026-10-28T08:42:23.340Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 4194
+      "trendingScore": 4196
     },
     {
       "name": "remotion-best-practices",
@@ -911,10 +751,10 @@
         "skills"
       ],
       "category": "Coding",
-      "downloads": 691140,
-      "installs": 691140,
+      "downloads": 697706,
+      "installs": 697706,
       "stars": 0,
-      "views": 691140,
+      "views": 697706,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -926,11 +766,11 @@
         }
       },
       "id": "skills-sh-remotion-best-practices-https://skills.sh/remotion-dev/skills/remotion-best-practices",
-      "createdAt": "2026-10-27T07:59:56.754Z",
-      "updatedAt": "2026-10-27T07:59:56.754Z",
+      "createdAt": "2026-10-28T08:42:23.300Z",
+      "updatedAt": "2026-10-28T08:42:23.300Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 4181
+      "trendingScore": 4184
     },
     {
       "name": "design-taste-frontend",
@@ -943,10 +783,10 @@
         "taste-skill"
       ],
       "category": "Coding",
-      "downloads": 684537,
-      "installs": 684537,
+      "downloads": 690432,
+      "installs": 690432,
       "stars": 0,
-      "views": 684537,
+      "views": 690432,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -958,43 +798,11 @@
         }
       },
       "id": "skills-sh-design-taste-frontend-https://skills.sh/leonxlnx/taste-skill/design-taste-frontend",
-      "createdAt": "2026-10-27T07:59:56.785Z",
-      "updatedAt": "2026-10-27T07:59:56.785Z",
+      "createdAt": "2026-10-28T08:42:23.303Z",
+      "updatedAt": "2026-10-28T08:42:23.303Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 4178
-    },
-    {
-      "name": "ai-avatar-video",
-      "description": "Real Skills.sh listing at /qu-skills/superpowers/ai-avatar-video. Installs are parsed from the page's public schema.org InstallAction metadata.",
-      "platform": "skills-sh",
-      "sourceUrl": "https://skills.sh/qu-skills/superpowers/ai-avatar-video",
-      "tags": [
-        "skills.sh",
-        "qu-skills",
-        "superpowers"
-      ],
-      "category": "Coding",
-      "downloads": 564027,
-      "installs": 564027,
-      "stars": 0,
-      "views": 564027,
-      "metricEvidence": {
-        "installs": {
-          "source": "Skills.sh JSON-LD",
-          "url": "https://skills.sh/qu-skills/superpowers/ai-avatar-video"
-        },
-        "downloads": {
-          "source": "Skills.sh installs used as install/download signal",
-          "url": "https://skills.sh/qu-skills/superpowers/ai-avatar-video"
-        }
-      },
-      "id": "skills-sh-ai-avatar-video-https://skills.sh/qu-skills/superpowers/ai-avatar-video",
-      "createdAt": "2026-10-27T07:59:56.636Z",
-      "updatedAt": "2026-10-27T07:59:56.636Z",
-      "rankDelta": 0,
-      "isNewEntrant": false,
-      "trendingScore": 4121
+      "trendingScore": 4181
     },
     {
       "name": "ai-video-generation",
@@ -1007,10 +815,10 @@
         "superpowers"
       ],
       "category": "Coding",
-      "downloads": 563637,
-      "installs": 563637,
+      "downloads": 573418,
+      "installs": 573418,
       "stars": 0,
-      "views": 563637,
+      "views": 573418,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -1022,75 +830,43 @@
         }
       },
       "id": "skills-sh-ai-video-generation-https://skills.sh/qu-skills/superpowers/ai-video-generation",
-      "createdAt": "2026-10-27T07:59:56.656Z",
-      "updatedAt": "2026-10-27T07:59:56.656Z",
+      "createdAt": "2026-10-28T08:42:23.260Z",
+      "updatedAt": "2026-10-28T08:42:23.260Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 4121
+      "trendingScore": 4126
     },
     {
-      "name": "twitter-automation",
-      "description": "Real Skills.sh listing at /qu-skills/superpowers/twitter-automation. Installs are parsed from the page's public schema.org InstallAction metadata.",
+      "name": "wizard",
+      "description": "Real Skills.sh listing at /mattpocock/skills/wizard. Installs are parsed from the page's public schema.org InstallAction metadata.",
       "platform": "skills-sh",
-      "sourceUrl": "https://skills.sh/qu-skills/superpowers/twitter-automation",
+      "sourceUrl": "https://skills.sh/mattpocock/skills/wizard",
       "tags": [
         "skills.sh",
-        "qu-skills",
-        "superpowers"
+        "mattpocock",
+        "skills"
       ],
       "category": "Coding",
-      "downloads": 563767,
-      "installs": 563767,
+      "downloads": 568621,
+      "installs": 568621,
       "stars": 0,
-      "views": 563767,
+      "views": 568621,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
-          "url": "https://skills.sh/qu-skills/superpowers/twitter-automation"
+          "url": "https://skills.sh/mattpocock/skills/wizard"
         },
         "downloads": {
           "source": "Skills.sh installs used as install/download signal",
-          "url": "https://skills.sh/qu-skills/superpowers/twitter-automation"
+          "url": "https://skills.sh/mattpocock/skills/wizard"
         }
       },
-      "id": "skills-sh-twitter-automation-https://skills.sh/qu-skills/superpowers/twitter-automation",
-      "createdAt": "2026-10-27T07:59:56.842Z",
-      "updatedAt": "2026-10-27T07:59:56.842Z",
+      "id": "skills-sh-wizard-https://skills.sh/mattpocock/skills/wizard",
+      "createdAt": "2026-10-28T08:42:23.412Z",
+      "updatedAt": "2026-10-28T08:42:23.412Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 4121
-    },
-    {
-      "name": "ai-image-generation",
-      "description": "Real Skills.sh listing at /qu-skills/superpowers/ai-image-generation. Installs are parsed from the page's public schema.org InstallAction metadata.",
-      "platform": "skills-sh",
-      "sourceUrl": "https://skills.sh/qu-skills/superpowers/ai-image-generation",
-      "tags": [
-        "skills.sh",
-        "qu-skills",
-        "superpowers"
-      ],
-      "category": "Coding",
-      "downloads": 563607,
-      "installs": 563607,
-      "stars": 0,
-      "views": 563607,
-      "metricEvidence": {
-        "installs": {
-          "source": "Skills.sh JSON-LD",
-          "url": "https://skills.sh/qu-skills/superpowers/ai-image-generation"
-        },
-        "downloads": {
-          "source": "Skills.sh installs used as install/download signal",
-          "url": "https://skills.sh/qu-skills/superpowers/ai-image-generation"
-        }
-      },
-      "id": "skills-sh-ai-image-generation-https://skills.sh/qu-skills/superpowers/ai-image-generation",
-      "createdAt": "2026-10-27T07:59:56.689Z",
-      "updatedAt": "2026-10-27T07:59:56.689Z",
-      "rankDelta": 0,
-      "isNewEntrant": false,
-      "trendingScore": 4121
+      "trendingScore": 4123
     },
     {
       "name": "remotion-to-hyperframes",
@@ -1103,10 +879,10 @@
         "hyperframes"
       ],
       "category": "Coding",
-      "downloads": 516136,
-      "installs": 516136,
+      "downloads": 522726,
+      "installs": 522726,
       "stars": 0,
-      "views": 516136,
+      "views": 522726,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -1118,11 +894,107 @@
         }
       },
       "id": "skills-sh-remotion-to-hyperframes-https://skills.sh/heygen-com/hyperframes/remotion-to-hyperframes",
-      "createdAt": "2026-10-27T07:59:56.767Z",
-      "updatedAt": "2026-10-27T07:59:56.767Z",
+      "createdAt": "2026-10-28T08:42:23.273Z",
+      "updatedAt": "2026-10-28T08:42:23.273Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 4095
+      "trendingScore": 4098
+    },
+    {
+      "name": "google-agents-cli-adk-code",
+      "description": "Real Skills.sh listing at /google/agents-cli/google-agents-cli-adk-code. Installs are parsed from the page's public schema.org InstallAction metadata.",
+      "platform": "skills-sh",
+      "sourceUrl": "https://skills.sh/google/agents-cli/google-agents-cli-adk-code",
+      "tags": [
+        "skills.sh",
+        "google",
+        "agents-cli"
+      ],
+      "category": "Agent Workflow",
+      "downloads": 518111,
+      "installs": 518111,
+      "stars": 0,
+      "views": 518111,
+      "metricEvidence": {
+        "installs": {
+          "source": "Skills.sh JSON-LD",
+          "url": "https://skills.sh/google/agents-cli/google-agents-cli-adk-code"
+        },
+        "downloads": {
+          "source": "Skills.sh installs used as install/download signal",
+          "url": "https://skills.sh/google/agents-cli/google-agents-cli-adk-code"
+        }
+      },
+      "id": "skills-sh-google-agents-cli-adk-code-https://skills.sh/google/agents-cli/google-agents-cli-adk-code",
+      "createdAt": "2026-10-28T08:42:23.308Z",
+      "updatedAt": "2026-10-28T08:42:23.308Z",
+      "rankDelta": 0,
+      "isNewEntrant": false,
+      "trendingScore": 4096
+    },
+    {
+      "name": "to-questionnaire",
+      "description": "Real Skills.sh listing at /mattpocock/skills/to-questionnaire. Installs are parsed from the page's public schema.org InstallAction metadata.",
+      "platform": "skills-sh",
+      "sourceUrl": "https://skills.sh/mattpocock/skills/to-questionnaire",
+      "tags": [
+        "skills.sh",
+        "mattpocock",
+        "skills"
+      ],
+      "category": "Coding",
+      "downloads": 512846,
+      "installs": 512846,
+      "stars": 0,
+      "views": 512846,
+      "metricEvidence": {
+        "installs": {
+          "source": "Skills.sh JSON-LD",
+          "url": "https://skills.sh/mattpocock/skills/to-questionnaire"
+        },
+        "downloads": {
+          "source": "Skills.sh installs used as install/download signal",
+          "url": "https://skills.sh/mattpocock/skills/to-questionnaire"
+        }
+      },
+      "id": "skills-sh-to-questionnaire-https://skills.sh/mattpocock/skills/to-questionnaire",
+      "createdAt": "2026-10-28T08:42:23.259Z",
+      "updatedAt": "2026-10-28T08:42:23.259Z",
+      "rankDelta": 0,
+      "isNewEntrant": false,
+      "trendingScore": 4093
+    },
+    {
+      "name": "migrate-to-shoehorn",
+      "description": "Real Skills.sh listing at /mattpocock/skills/migrate-to-shoehorn. Installs are parsed from the page's public schema.org InstallAction metadata.",
+      "platform": "skills-sh",
+      "sourceUrl": "https://skills.sh/mattpocock/skills/migrate-to-shoehorn",
+      "tags": [
+        "skills.sh",
+        "mattpocock",
+        "skills"
+      ],
+      "category": "Coding",
+      "downloads": 487204,
+      "installs": 487204,
+      "stars": 0,
+      "views": 487204,
+      "metricEvidence": {
+        "installs": {
+          "source": "Skills.sh JSON-LD",
+          "url": "https://skills.sh/mattpocock/skills/migrate-to-shoehorn"
+        },
+        "downloads": {
+          "source": "Skills.sh installs used as install/download signal",
+          "url": "https://skills.sh/mattpocock/skills/migrate-to-shoehorn"
+        }
+      },
+      "id": "skills-sh-migrate-to-shoehorn-https://skills.sh/mattpocock/skills/migrate-to-shoehorn",
+      "createdAt": "2026-10-28T08:42:23.261Z",
+      "updatedAt": "2026-10-28T08:42:23.261Z",
+      "rankDelta": 0,
+      "isNewEntrant": false,
+      "trendingScore": 4078
     },
     {
       "name": "ai-image-generation",
@@ -1135,10 +1007,10 @@
         "superpowers"
       ],
       "category": "Coding",
-      "downloads": 452373,
-      "installs": 452373,
+      "downloads": 471839,
+      "installs": 471839,
       "stars": 0,
-      "views": 452373,
+      "views": 471839,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -1150,11 +1022,43 @@
         }
       },
       "id": "skills-sh-ai-image-generation-https://skills.sh/skills-shell/superpowers/ai-image-generation",
-      "createdAt": "2026-10-27T07:59:56.622Z",
-      "updatedAt": "2026-10-27T07:59:56.622Z",
+      "createdAt": "2026-10-28T08:42:23.206Z",
+      "updatedAt": "2026-10-28T08:42:23.206Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 4056
+      "trendingScore": 4068
+    },
+    {
+      "name": "wait-what",
+      "description": "Real Skills.sh listing at /mattpocock/skills/wait-what. Installs are parsed from the page's public schema.org InstallAction metadata.",
+      "platform": "skills-sh",
+      "sourceUrl": "https://skills.sh/mattpocock/skills/wait-what",
+      "tags": [
+        "skills.sh",
+        "mattpocock",
+        "skills"
+      ],
+      "category": "Coding",
+      "downloads": 463812,
+      "installs": 463812,
+      "stars": 0,
+      "views": 463812,
+      "metricEvidence": {
+        "installs": {
+          "source": "Skills.sh JSON-LD",
+          "url": "https://skills.sh/mattpocock/skills/wait-what"
+        },
+        "downloads": {
+          "source": "Skills.sh installs used as install/download signal",
+          "url": "https://skills.sh/mattpocock/skills/wait-what"
+        }
+      },
+      "id": "skills-sh-wait-what-https://skills.sh/mattpocock/skills/wait-what",
+      "createdAt": "2026-10-28T08:42:23.334Z",
+      "updatedAt": "2026-10-28T08:42:23.334Z",
+      "rankDelta": 0,
+      "isNewEntrant": false,
+      "trendingScore": 4063
     },
     {
       "name": "claude-handoff",
@@ -1167,10 +1071,10 @@
         "skills"
       ],
       "category": "Coding",
-      "downloads": 428977,
-      "installs": 428977,
+      "downloads": 432678,
+      "installs": 432678,
       "stars": 0,
-      "views": 428977,
+      "views": 432678,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -1182,11 +1086,11 @@
         }
       },
       "id": "skills-sh-claude-handoff-https://skills.sh/mattpocock/skills/claude-handoff",
-      "createdAt": "2026-10-27T07:59:56.757Z",
-      "updatedAt": "2026-10-27T07:59:56.757Z",
+      "createdAt": "2026-10-28T08:42:23.343Z",
+      "updatedAt": "2026-10-28T08:42:23.343Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 4040
+      "trendingScore": 4043
     },
     {
       "name": "slideshow",
@@ -1199,10 +1103,10 @@
         "hyperframes"
       ],
       "category": "Coding",
-      "downloads": 425384,
-      "installs": 425384,
+      "downloads": 431710,
+      "installs": 431710,
       "stars": 0,
-      "views": 425384,
+      "views": 431710,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -1214,107 +1118,107 @@
         }
       },
       "id": "skills-sh-slideshow-https://skills.sh/heygen-com/hyperframes/slideshow",
-      "createdAt": "2026-10-27T07:59:56.815Z",
-      "updatedAt": "2026-10-27T07:59:56.815Z",
+      "createdAt": "2026-10-28T08:42:23.356Z",
+      "updatedAt": "2026-10-28T08:42:23.356Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 4038
+      "trendingScore": 4042
     },
     {
-      "name": "ai-image-generation",
-      "description": "Real Skills.sh listing at /its-a-skill-issue/superpowers/ai-image-generation. Installs are parsed from the page's public schema.org InstallAction metadata.",
+      "name": "ai-video-generation",
+      "description": "Real Skills.sh listing at /its-a-skill-issue/superpowers/ai-video-generation. Installs are parsed from the page's public schema.org InstallAction metadata.",
       "platform": "skills-sh",
-      "sourceUrl": "https://skills.sh/its-a-skill-issue/superpowers/ai-image-generation",
+      "sourceUrl": "https://skills.sh/its-a-skill-issue/superpowers/ai-video-generation",
       "tags": [
         "skills.sh",
         "its-a-skill-issue",
         "superpowers"
       ],
       "category": "Coding",
-      "downloads": 412474,
-      "installs": 412474,
+      "downloads": 421811,
+      "installs": 421811,
       "stars": 0,
-      "views": 412474,
+      "views": 421811,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
-          "url": "https://skills.sh/its-a-skill-issue/superpowers/ai-image-generation"
+          "url": "https://skills.sh/its-a-skill-issue/superpowers/ai-video-generation"
         },
         "downloads": {
           "source": "Skills.sh installs used as install/download signal",
-          "url": "https://skills.sh/its-a-skill-issue/superpowers/ai-image-generation"
+          "url": "https://skills.sh/its-a-skill-issue/superpowers/ai-video-generation"
         }
       },
-      "id": "skills-sh-ai-image-generation-https://skills.sh/its-a-skill-issue/superpowers/ai-image-generation",
-      "createdAt": "2026-10-27T07:59:56.730Z",
-      "updatedAt": "2026-10-27T07:59:56.730Z",
+      "id": "skills-sh-ai-video-generation-https://skills.sh/its-a-skill-issue/superpowers/ai-video-generation",
+      "createdAt": "2026-10-28T08:42:23.360Z",
+      "updatedAt": "2026-10-28T08:42:23.360Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 4028
+      "trendingScore": 4035
     },
     {
-      "name": "twitter-automation",
-      "description": "Real Skills.sh listing at /bankai-skills/superpowers/twitter-automation. Installs are parsed from the page's public schema.org InstallAction metadata.",
+      "name": "ai-video-generation",
+      "description": "Real Skills.sh listing at /bankai-skills/superpowers/ai-video-generation. Installs are parsed from the page's public schema.org InstallAction metadata.",
       "platform": "skills-sh",
-      "sourceUrl": "https://skills.sh/bankai-skills/superpowers/twitter-automation",
+      "sourceUrl": "https://skills.sh/bankai-skills/superpowers/ai-video-generation",
       "tags": [
         "skills.sh",
         "bankai-skills",
         "superpowers"
       ],
       "category": "Coding",
-      "downloads": 397117,
-      "installs": 397117,
+      "downloads": 407059,
+      "installs": 407059,
       "stars": 0,
-      "views": 397117,
+      "views": 407059,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
-          "url": "https://skills.sh/bankai-skills/superpowers/twitter-automation"
+          "url": "https://skills.sh/bankai-skills/superpowers/ai-video-generation"
         },
         "downloads": {
           "source": "Skills.sh installs used as install/download signal",
-          "url": "https://skills.sh/bankai-skills/superpowers/twitter-automation"
+          "url": "https://skills.sh/bankai-skills/superpowers/ai-video-generation"
         }
       },
-      "id": "skills-sh-twitter-automation-https://skills.sh/bankai-skills/superpowers/twitter-automation",
-      "createdAt": "2026-10-27T07:59:56.753Z",
-      "updatedAt": "2026-10-27T07:59:56.753Z",
+      "id": "skills-sh-ai-video-generation-https://skills.sh/bankai-skills/superpowers/ai-video-generation",
+      "createdAt": "2026-10-28T08:42:23.362Z",
+      "updatedAt": "2026-10-28T08:42:23.362Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 4017
+      "trendingScore": 4025
     },
     {
-      "name": "emil-design-eng",
-      "description": "Real Skills.sh listing at /emilkowalski/skills/emil-design-eng. Installs are parsed from the page's public schema.org InstallAction metadata.",
+      "name": "setup-ts-deep-modules",
+      "description": "Real Skills.sh listing at /mattpocock/skills/setup-ts-deep-modules. Installs are parsed from the page's public schema.org InstallAction metadata.",
       "platform": "skills-sh",
-      "sourceUrl": "https://skills.sh/emilkowalski/skills/emil-design-eng",
+      "sourceUrl": "https://skills.sh/mattpocock/skills/setup-ts-deep-modules",
       "tags": [
         "skills.sh",
-        "emilkowalski",
+        "mattpocock",
         "skills"
       ],
       "category": "Coding",
-      "downloads": 391225,
-      "installs": 391225,
+      "downloads": 379081,
+      "installs": 379081,
       "stars": 0,
-      "views": 391225,
+      "views": 379081,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
-          "url": "https://skills.sh/emilkowalski/skills/emil-design-eng"
+          "url": "https://skills.sh/mattpocock/skills/setup-ts-deep-modules"
         },
         "downloads": {
           "source": "Skills.sh installs used as install/download signal",
-          "url": "https://skills.sh/emilkowalski/skills/emil-design-eng"
+          "url": "https://skills.sh/mattpocock/skills/setup-ts-deep-modules"
         }
       },
-      "id": "skills-sh-emil-design-eng-https://skills.sh/emilkowalski/skills/emil-design-eng",
-      "createdAt": "2026-10-27T07:59:56.772Z",
-      "updatedAt": "2026-10-27T07:59:56.772Z",
+      "id": "skills-sh-setup-ts-deep-modules-https://skills.sh/mattpocock/skills/setup-ts-deep-modules",
+      "createdAt": "2026-10-28T08:42:23.345Z",
+      "updatedAt": "2026-10-28T08:42:23.345Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 4013
+      "trendingScore": 4004
     },
     {
       "name": "figma",
@@ -1327,10 +1231,10 @@
         "hyperframes"
       ],
       "category": "Coding",
-      "downloads": 338774,
-      "installs": 338774,
+      "downloads": 345080,
+      "installs": 345080,
       "stars": 0,
-      "views": 338774,
+      "views": 345080,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -1342,11 +1246,11 @@
         }
       },
       "id": "skills-sh-figma-https://skills.sh/heygen-com/hyperframes/figma",
-      "createdAt": "2026-10-27T07:59:56.813Z",
-      "updatedAt": "2026-10-27T07:59:56.813Z",
+      "createdAt": "2026-10-28T08:42:23.295Z",
+      "updatedAt": "2026-10-28T08:42:23.295Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 3970
+      "trendingScore": 3976
     },
     {
       "name": "ai-music",
@@ -1359,10 +1263,10 @@
         "skills"
       ],
       "category": "Coding",
-      "downloads": 295315,
-      "installs": 295315,
+      "downloads": 310914,
+      "installs": 310914,
       "stars": 0,
-      "views": 295315,
+      "views": 310914,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -1374,11 +1278,11 @@
         }
       },
       "id": "skills-sh-ai-music-https://skills.sh/gencraft-labs/skills/ai-music",
-      "createdAt": "2026-10-27T07:59:56.718Z",
-      "updatedAt": "2026-10-27T07:59:56.718Z",
+      "createdAt": "2026-10-28T08:42:23.253Z",
+      "updatedAt": "2026-10-28T08:42:23.253Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 3930
+      "trendingScore": 3945
     },
     {
       "name": "ai-video-generation",
@@ -1391,10 +1295,10 @@
         "skills"
       ],
       "category": "Coding",
-      "downloads": 293623,
-      "installs": 293623,
+      "downloads": 309428,
+      "installs": 309428,
       "stars": 0,
-      "views": 293623,
+      "views": 309428,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -1406,11 +1310,139 @@
         }
       },
       "id": "skills-sh-ai-video-generation-https://skills.sh/gencraft-labs/skills/ai-video-generation",
-      "createdAt": "2026-10-27T07:59:56.612Z",
-      "updatedAt": "2026-10-27T07:59:56.612Z",
+      "createdAt": "2026-10-28T08:42:23.235Z",
+      "updatedAt": "2026-10-28T08:42:23.235Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 3928
+      "trendingScore": 3944
+    },
+    {
+      "name": "video-edit",
+      "description": "Real Skills.sh listing at /gencraft-labs/skills/video-edit. Installs are parsed from the page's public schema.org InstallAction metadata.",
+      "platform": "skills-sh",
+      "sourceUrl": "https://skills.sh/gencraft-labs/skills/video-edit",
+      "tags": [
+        "skills.sh",
+        "gencraft-labs",
+        "skills"
+      ],
+      "category": "Coding",
+      "downloads": 309668,
+      "installs": 309668,
+      "stars": 0,
+      "views": 309668,
+      "metricEvidence": {
+        "installs": {
+          "source": "Skills.sh JSON-LD",
+          "url": "https://skills.sh/gencraft-labs/skills/video-edit"
+        },
+        "downloads": {
+          "source": "Skills.sh installs used as install/download signal",
+          "url": "https://skills.sh/gencraft-labs/skills/video-edit"
+        }
+      },
+      "id": "skills-sh-video-edit-https://skills.sh/gencraft-labs/skills/video-edit",
+      "createdAt": "2026-10-28T08:42:23.346Z",
+      "updatedAt": "2026-10-28T08:42:23.346Z",
+      "rankDelta": 0,
+      "isNewEntrant": false,
+      "trendingScore": 3944
+    },
+    {
+      "name": "ai-image-generation",
+      "description": "Real Skills.sh listing at /gencraft-labs/skills/ai-image-generation. Installs are parsed from the page's public schema.org InstallAction metadata.",
+      "platform": "skills-sh",
+      "sourceUrl": "https://skills.sh/gencraft-labs/skills/ai-image-generation",
+      "tags": [
+        "skills.sh",
+        "gencraft-labs",
+        "skills"
+      ],
+      "category": "Coding",
+      "downloads": 308781,
+      "installs": 308781,
+      "stars": 0,
+      "views": 308781,
+      "metricEvidence": {
+        "installs": {
+          "source": "Skills.sh JSON-LD",
+          "url": "https://skills.sh/gencraft-labs/skills/ai-image-generation"
+        },
+        "downloads": {
+          "source": "Skills.sh installs used as install/download signal",
+          "url": "https://skills.sh/gencraft-labs/skills/ai-image-generation"
+        }
+      },
+      "id": "skills-sh-ai-image-generation-https://skills.sh/gencraft-labs/skills/ai-image-generation",
+      "createdAt": "2026-10-28T08:42:23.415Z",
+      "updatedAt": "2026-10-28T08:42:23.415Z",
+      "rankDelta": 0,
+      "isNewEntrant": false,
+      "trendingScore": 3943
+    },
+    {
+      "name": "image-to-video",
+      "description": "Real Skills.sh listing at /gencraft-labs/skills/image-to-video. Installs are parsed from the page's public schema.org InstallAction metadata.",
+      "platform": "skills-sh",
+      "sourceUrl": "https://skills.sh/gencraft-labs/skills/image-to-video",
+      "tags": [
+        "skills.sh",
+        "gencraft-labs",
+        "skills"
+      ],
+      "category": "Coding",
+      "downloads": 308518,
+      "installs": 308518,
+      "stars": 0,
+      "views": 308518,
+      "metricEvidence": {
+        "installs": {
+          "source": "Skills.sh JSON-LD",
+          "url": "https://skills.sh/gencraft-labs/skills/image-to-video"
+        },
+        "downloads": {
+          "source": "Skills.sh installs used as install/download signal",
+          "url": "https://skills.sh/gencraft-labs/skills/image-to-video"
+        }
+      },
+      "id": "skills-sh-image-to-video-https://skills.sh/gencraft-labs/skills/image-to-video",
+      "createdAt": "2026-10-28T08:42:23.319Z",
+      "updatedAt": "2026-10-28T08:42:23.319Z",
+      "rankDelta": 0,
+      "isNewEntrant": false,
+      "trendingScore": 3943
+    },
+    {
+      "name": "implement-spec",
+      "description": "Real Skills.sh listing at /mattpocock/skills/implement-spec. Installs are parsed from the page's public schema.org InstallAction metadata.",
+      "platform": "skills-sh",
+      "sourceUrl": "https://skills.sh/mattpocock/skills/implement-spec",
+      "tags": [
+        "skills.sh",
+        "mattpocock",
+        "skills"
+      ],
+      "category": "Coding",
+      "downloads": 297991,
+      "installs": 297991,
+      "stars": 0,
+      "views": 297991,
+      "metricEvidence": {
+        "installs": {
+          "source": "Skills.sh JSON-LD",
+          "url": "https://skills.sh/mattpocock/skills/implement-spec"
+        },
+        "downloads": {
+          "source": "Skills.sh installs used as install/download signal",
+          "url": "https://skills.sh/mattpocock/skills/implement-spec"
+        }
+      },
+      "id": "skills-sh-implement-spec-https://skills.sh/mattpocock/skills/implement-spec",
+      "createdAt": "2026-10-28T08:42:23.401Z",
+      "updatedAt": "2026-10-28T08:42:23.401Z",
+      "rankDelta": 0,
+      "isNewEntrant": false,
+      "trendingScore": 3932
     },
     {
       "name": "neon-postgres",
@@ -1423,10 +1455,10 @@
         "agent-skills"
       ],
       "category": "Data Analysis",
-      "downloads": 283966,
-      "installs": 283966,
+      "downloads": 287304,
+      "installs": 287304,
       "stars": 0,
-      "views": 283966,
+      "views": 287304,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -1438,43 +1470,11 @@
         }
       },
       "id": "skills-sh-neon-postgres-https://skills.sh/neondatabase/agent-skills/neon-postgres",
-      "createdAt": "2026-10-27T07:59:56.829Z",
-      "updatedAt": "2026-10-27T07:59:56.829Z",
+      "createdAt": "2026-10-28T08:42:23.335Z",
+      "updatedAt": "2026-10-28T08:42:23.335Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 3918
-    },
-    {
-      "name": "apple-design",
-      "description": "Real Skills.sh listing at /emilkowalski/skills/apple-design. Installs are parsed from the page's public schema.org InstallAction metadata.",
-      "platform": "skills-sh",
-      "sourceUrl": "https://skills.sh/emilkowalski/skills/apple-design",
-      "tags": [
-        "skills.sh",
-        "emilkowalski",
-        "skills"
-      ],
-      "category": "Coding",
-      "downloads": 247093,
-      "installs": 247093,
-      "stars": 0,
-      "views": 247093,
-      "metricEvidence": {
-        "installs": {
-          "source": "Skills.sh JSON-LD",
-          "url": "https://skills.sh/emilkowalski/skills/apple-design"
-        },
-        "downloads": {
-          "source": "Skills.sh installs used as install/download signal",
-          "url": "https://skills.sh/emilkowalski/skills/apple-design"
-        }
-      },
-      "id": "skills-sh-apple-design-https://skills.sh/emilkowalski/skills/apple-design",
-      "createdAt": "2026-10-27T07:59:56.818Z",
-      "updatedAt": "2026-10-27T07:59:56.818Z",
-      "rankDelta": 0,
-      "isNewEntrant": false,
-      "trendingScore": 3877
+      "trendingScore": 3922
     },
     {
       "name": "neon",
@@ -1487,10 +1487,10 @@
         "agent-skills"
       ],
       "category": "Data Analysis",
-      "downloads": 236881,
-      "installs": 236881,
+      "downloads": 240329,
+      "installs": 240329,
       "stars": 0,
-      "views": 236881,
+      "views": 240329,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -1502,11 +1502,11 @@
         }
       },
       "id": "skills-sh-neon-https://skills.sh/neondatabase/agent-skills/neon",
-      "createdAt": "2026-10-27T07:59:56.814Z",
-      "updatedAt": "2026-10-27T07:59:56.814Z",
+      "createdAt": "2026-10-28T08:42:23.463Z",
+      "updatedAt": "2026-10-28T08:42:23.463Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 3865
+      "trendingScore": 3869
     },
     {
       "name": "remotion-render",
@@ -1519,10 +1519,10 @@
         "skills"
       ],
       "category": "Coding",
-      "downloads": 220786,
-      "installs": 220786,
+      "downloads": 227213,
+      "installs": 227213,
       "stars": 0,
-      "views": 220786,
+      "views": 227213,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -1534,11 +1534,11 @@
         }
       },
       "id": "skills-sh-remotion-render-https://skills.sh/remotion-dev/skills/remotion-render",
-      "createdAt": "2026-10-27T07:59:56.767Z",
-      "updatedAt": "2026-10-27T07:59:56.767Z",
+      "createdAt": "2026-10-28T08:42:23.294Z",
+      "updatedAt": "2026-10-28T08:42:23.294Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 3844
+      "trendingScore": 3852
     },
     {
       "name": "remotion-create",
@@ -1551,10 +1551,10 @@
         "skills"
       ],
       "category": "Coding",
-      "downloads": 219525,
-      "installs": 219525,
+      "downloads": 225891,
+      "installs": 225891,
       "stars": 0,
-      "views": 219525,
+      "views": 225891,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -1566,11 +1566,11 @@
         }
       },
       "id": "skills-sh-remotion-create-https://skills.sh/remotion-dev/skills/remotion-create",
-      "createdAt": "2026-10-27T07:59:56.768Z",
-      "updatedAt": "2026-10-27T07:59:56.768Z",
+      "createdAt": "2026-10-28T08:42:23.298Z",
+      "updatedAt": "2026-10-28T08:42:23.298Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 3842
+      "trendingScore": 3851
     },
     {
       "name": "remotion-captions",
@@ -1583,10 +1583,10 @@
         "skills"
       ],
       "category": "Coding",
-      "downloads": 217555,
-      "installs": 217555,
+      "downloads": 223784,
+      "installs": 223784,
       "stars": 0,
-      "views": 217555,
+      "views": 223784,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -1598,11 +1598,11 @@
         }
       },
       "id": "skills-sh-remotion-captions-https://skills.sh/remotion-dev/skills/remotion-captions",
-      "createdAt": "2026-10-27T07:59:56.742Z",
-      "updatedAt": "2026-10-27T07:59:56.742Z",
+      "createdAt": "2026-10-28T08:42:23.458Z",
+      "updatedAt": "2026-10-28T08:42:23.458Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 3840
+      "trendingScore": 3848
     },
     {
       "name": "remotion-markup",
@@ -1615,10 +1615,10 @@
         "skills"
       ],
       "category": "Coding",
-      "downloads": 213368,
-      "installs": 213368,
+      "downloads": 219527,
+      "installs": 219527,
       "stars": 0,
-      "views": 213368,
+      "views": 219527,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -1630,75 +1630,75 @@
         }
       },
       "id": "skills-sh-remotion-markup-https://skills.sh/remotion-dev/skills/remotion-markup",
-      "createdAt": "2026-10-27T07:59:56.720Z",
-      "updatedAt": "2026-10-27T07:59:56.720Z",
+      "createdAt": "2026-10-28T08:42:23.404Z",
+      "updatedAt": "2026-10-28T08:42:23.404Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 3834
+      "trendingScore": 3842
     },
     {
-      "name": "remotion-docs",
-      "description": "Real Skills.sh listing at /remotion-dev/skills/remotion-docs. Installs are parsed from the page's public schema.org InstallAction metadata.",
+      "name": "remotion-maps",
+      "description": "Real Skills.sh listing at /remotion-dev/skills/remotion-maps. Installs are parsed from the page's public schema.org InstallAction metadata.",
       "platform": "skills-sh",
-      "sourceUrl": "https://skills.sh/remotion-dev/skills/remotion-docs",
-      "tags": [
-        "skills.sh",
-        "remotion-dev",
-        "skills"
-      ],
-      "category": "Research",
-      "downloads": 206124,
-      "installs": 206124,
-      "stars": 0,
-      "views": 206124,
-      "metricEvidence": {
-        "installs": {
-          "source": "Skills.sh JSON-LD",
-          "url": "https://skills.sh/remotion-dev/skills/remotion-docs"
-        },
-        "downloads": {
-          "source": "Skills.sh installs used as install/download signal",
-          "url": "https://skills.sh/remotion-dev/skills/remotion-docs"
-        }
-      },
-      "id": "skills-sh-remotion-docs-https://skills.sh/remotion-dev/skills/remotion-docs",
-      "createdAt": "2026-10-27T07:59:56.769Z",
-      "updatedAt": "2026-10-27T07:59:56.769Z",
-      "rankDelta": 0,
-      "isNewEntrant": false,
-      "trendingScore": 3824
-    },
-    {
-      "name": "remotion-studio",
-      "description": "Real Skills.sh listing at /remotion-dev/skills/remotion-studio. Installs are parsed from the page's public schema.org InstallAction metadata.",
-      "platform": "skills-sh",
-      "sourceUrl": "https://skills.sh/remotion-dev/skills/remotion-studio",
+      "sourceUrl": "https://skills.sh/remotion-dev/skills/remotion-maps",
       "tags": [
         "skills.sh",
         "remotion-dev",
         "skills"
       ],
       "category": "Coding",
-      "downloads": 182706,
-      "installs": 182706,
+      "downloads": 196940,
+      "installs": 196940,
       "stars": 0,
-      "views": 182706,
+      "views": 196940,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
-          "url": "https://skills.sh/remotion-dev/skills/remotion-studio"
+          "url": "https://skills.sh/remotion-dev/skills/remotion-maps"
         },
         "downloads": {
           "source": "Skills.sh installs used as install/download signal",
-          "url": "https://skills.sh/remotion-dev/skills/remotion-studio"
+          "url": "https://skills.sh/remotion-dev/skills/remotion-maps"
         }
       },
-      "id": "skills-sh-remotion-studio-https://skills.sh/remotion-dev/skills/remotion-studio",
-      "createdAt": "2026-10-27T07:59:56.784Z",
-      "updatedAt": "2026-10-27T07:59:56.784Z",
+      "id": "skills-sh-remotion-maps-https://skills.sh/remotion-dev/skills/remotion-maps",
+      "createdAt": "2026-10-28T08:42:23.324Z",
+      "updatedAt": "2026-10-28T08:42:23.324Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 3788
+      "trendingScore": 3810
+    },
+    {
+      "name": "pr",
+      "description": "Real Skills.sh listing at /mattpocock/skills/pr. Installs are parsed from the page's public schema.org InstallAction metadata.",
+      "platform": "skills-sh",
+      "sourceUrl": "https://skills.sh/mattpocock/skills/pr",
+      "tags": [
+        "skills.sh",
+        "mattpocock",
+        "skills"
+      ],
+      "category": "Coding",
+      "downloads": 183158,
+      "installs": 183158,
+      "stars": 0,
+      "views": 183158,
+      "metricEvidence": {
+        "installs": {
+          "source": "Skills.sh JSON-LD",
+          "url": "https://skills.sh/mattpocock/skills/pr"
+        },
+        "downloads": {
+          "source": "Skills.sh installs used as install/download signal",
+          "url": "https://skills.sh/mattpocock/skills/pr"
+        }
+      },
+      "id": "skills-sh-pr-https://skills.sh/mattpocock/skills/pr",
+      "createdAt": "2026-10-28T08:42:23.494Z",
+      "updatedAt": "2026-10-28T08:42:23.494Z",
+      "rankDelta": 0,
+      "isNewEntrant": false,
+      "trendingScore": 3789
     },
     {
       "name": "uizze-ui",
@@ -1711,10 +1711,10 @@
         "uizze"
       ],
       "category": "Coding",
-      "downloads": 160282,
-      "installs": 160282,
+      "downloads": 176769,
+      "installs": 176769,
       "stars": 0,
-      "views": 160282,
+      "views": 176769,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -1726,11 +1726,43 @@
         }
       },
       "id": "skills-sh-uizze-ui-https://skills.sh/uizze/uizze/uizze-ui",
-      "createdAt": "2026-10-27T07:59:56.697Z",
-      "updatedAt": "2026-10-27T07:59:56.697Z",
+      "createdAt": "2026-10-28T08:42:23.340Z",
+      "updatedAt": "2026-10-28T08:42:23.340Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 3749
+      "trendingScore": 3778
+    },
+    {
+      "name": "agent-browser",
+      "description": "Real Skills.sh listing at /skills-shell/superpowers/agent-browser. Installs are parsed from the page's public schema.org InstallAction metadata.",
+      "platform": "skills-sh",
+      "sourceUrl": "https://skills.sh/skills-shell/superpowers/agent-browser",
+      "tags": [
+        "skills.sh",
+        "skills-shell",
+        "superpowers"
+      ],
+      "category": "Browser Automation",
+      "downloads": 88733,
+      "installs": 88733,
+      "stars": 0,
+      "views": 88733,
+      "metricEvidence": {
+        "installs": {
+          "source": "Skills.sh JSON-LD",
+          "url": "https://skills.sh/skills-shell/superpowers/agent-browser"
+        },
+        "downloads": {
+          "source": "Skills.sh installs used as install/download signal",
+          "url": "https://skills.sh/skills-shell/superpowers/agent-browser"
+        }
+      },
+      "id": "skills-sh-agent-browser-https://skills.sh/skills-shell/superpowers/agent-browser",
+      "createdAt": "2026-10-28T08:42:23.418Z",
+      "updatedAt": "2026-10-28T08:42:23.418Z",
+      "rankDelta": 0,
+      "isNewEntrant": false,
+      "trendingScore": 3575
     },
     {
       "name": "Brave Search",
@@ -1757,43 +1789,11 @@
         }
       },
       "id": "smithery-Brave Search-https://smithery.ai/server/brave",
-      "createdAt": "2026-10-27T08:00:00.859Z",
-      "updatedAt": "2026-10-27T08:00:00.859Z",
+      "createdAt": "2026-10-28T08:42:29.942Z",
+      "updatedAt": "2026-10-28T08:42:29.942Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 3571
-    },
-    {
-      "name": "agent-browser",
-      "description": "Real Skills.sh listing at /skills-shell/superpowers/agent-browser. Installs are parsed from the page's public schema.org InstallAction metadata.",
-      "platform": "skills-sh",
-      "sourceUrl": "https://skills.sh/skills-shell/superpowers/agent-browser",
-      "tags": [
-        "skills.sh",
-        "skills-shell",
-        "superpowers"
-      ],
-      "category": "Browser Automation",
-      "downloads": 84957,
-      "installs": 84957,
-      "stars": 0,
-      "views": 84957,
-      "metricEvidence": {
-        "installs": {
-          "source": "Skills.sh JSON-LD",
-          "url": "https://skills.sh/skills-shell/superpowers/agent-browser"
-        },
-        "downloads": {
-          "source": "Skills.sh installs used as install/download signal",
-          "url": "https://skills.sh/skills-shell/superpowers/agent-browser"
-        }
-      },
-      "id": "skills-sh-agent-browser-https://skills.sh/skills-shell/superpowers/agent-browser",
-      "createdAt": "2026-10-27T07:59:56.784Z",
-      "updatedAt": "2026-10-27T07:59:56.784Z",
-      "rankDelta": 0,
-      "isNewEntrant": false,
-      "trendingScore": 3562
     },
     {
       "name": "image-to-ui",
@@ -1806,10 +1806,10 @@
         "uizze"
       ],
       "category": "Coding",
-      "downloads": 68520,
-      "installs": 68520,
+      "downloads": 74526,
+      "installs": 74526,
       "stars": 0,
-      "views": 68520,
+      "views": 74526,
       "metricEvidence": {
         "installs": {
           "source": "Skills.sh JSON-LD",
@@ -1821,11 +1821,43 @@
         }
       },
       "id": "skills-sh-image-to-ui-https://skills.sh/uizze/uizze/image-to-ui",
-      "createdAt": "2026-10-27T07:59:56.740Z",
-      "updatedAt": "2026-10-27T07:59:56.740Z",
+      "createdAt": "2026-10-28T08:42:23.344Z",
+      "updatedAt": "2026-10-28T08:42:23.344Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 3498
+      "trendingScore": 3523
+    },
+    {
+      "name": "security-audit",
+      "description": "Real Skills.sh listing at /cloudflare/security-audit-skill/security-audit. Installs are parsed from the page's public schema.org InstallAction metadata.",
+      "platform": "skills-sh",
+      "sourceUrl": "https://skills.sh/cloudflare/security-audit-skill/security-audit",
+      "tags": [
+        "skills.sh",
+        "cloudflare",
+        "security-audit-skill"
+      ],
+      "category": "Coding",
+      "downloads": 61358,
+      "installs": 61358,
+      "stars": 0,
+      "views": 61358,
+      "metricEvidence": {
+        "installs": {
+          "source": "Skills.sh JSON-LD",
+          "url": "https://skills.sh/cloudflare/security-audit-skill/security-audit"
+        },
+        "downloads": {
+          "source": "Skills.sh installs used as install/download signal",
+          "url": "https://skills.sh/cloudflare/security-audit-skill/security-audit"
+        }
+      },
+      "id": "skills-sh-security-audit-https://skills.sh/cloudflare/security-audit-skill/security-audit",
+      "createdAt": "2026-10-28T08:42:23.405Z",
+      "updatedAt": "2026-10-28T08:42:23.405Z",
+      "rankDelta": 0,
+      "isNewEntrant": false,
+      "trendingScore": 3466
     },
     {
       "name": "uk-due-diligence",
@@ -1852,8 +1884,8 @@
         }
       },
       "id": "smithery-uk-due-diligence-https://smithery.ai/server/bouch/uk-due-diligence",
-      "createdAt": "2026-10-27T08:00:00.859Z",
-      "updatedAt": "2026-10-27T08:00:00.859Z",
+      "createdAt": "2026-10-28T08:42:29.943Z",
+      "updatedAt": "2026-10-28T08:42:29.943Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 3463
@@ -1883,8 +1915,8 @@
         }
       },
       "id": "smithery-Paper Search-https://smithery.ai/server/adamamer20/paper-search-mcp-openai",
-      "createdAt": "2026-10-27T08:00:00.859Z",
-      "updatedAt": "2026-10-27T08:00:00.859Z",
+      "createdAt": "2026-10-28T08:42:29.943Z",
+      "updatedAt": "2026-10-28T08:42:29.943Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 3455
@@ -1914,43 +1946,11 @@
         }
       },
       "id": "smithery-Gmail-https://smithery.ai/server/gmail",
-      "createdAt": "2026-10-27T08:00:00.859Z",
-      "updatedAt": "2026-10-27T08:00:00.859Z",
+      "createdAt": "2026-10-28T08:42:29.942Z",
+      "updatedAt": "2026-10-28T08:42:29.942Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 3448
-    },
-    {
-      "name": "security-audit",
-      "description": "Real Skills.sh listing at /cloudflare/security-audit-skill/security-audit. Installs are parsed from the page's public schema.org InstallAction metadata.",
-      "platform": "skills-sh",
-      "sourceUrl": "https://skills.sh/cloudflare/security-audit-skill/security-audit",
-      "tags": [
-        "skills.sh",
-        "cloudflare",
-        "security-audit-skill"
-      ],
-      "category": "Coding",
-      "downloads": 57313,
-      "installs": 57313,
-      "stars": 0,
-      "views": 57313,
-      "metricEvidence": {
-        "installs": {
-          "source": "Skills.sh JSON-LD",
-          "url": "https://skills.sh/cloudflare/security-audit-skill/security-audit"
-        },
-        "downloads": {
-          "source": "Skills.sh installs used as install/download signal",
-          "url": "https://skills.sh/cloudflare/security-audit-skill/security-audit"
-        }
-      },
-      "id": "skills-sh-security-audit-https://skills.sh/cloudflare/security-audit-skill/security-audit",
-      "createdAt": "2026-10-27T07:59:56.773Z",
-      "updatedAt": "2026-10-27T07:59:56.773Z",
-      "rankDelta": 0,
-      "isNewEntrant": false,
-      "trendingScore": 3446
     },
     {
       "name": "Google Sheets",
@@ -1977,8 +1977,8 @@
         }
       },
       "id": "smithery-Google Sheets-https://smithery.ai/server/googlesheets",
-      "createdAt": "2026-10-27T08:00:00.859Z",
-      "updatedAt": "2026-10-27T08:00:00.859Z",
+      "createdAt": "2026-10-28T08:42:29.943Z",
+      "updatedAt": "2026-10-28T08:42:29.943Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 3440
@@ -2008,8 +2008,8 @@
         }
       },
       "id": "smithery-Agent News-https://smithery.ai/server/theagenttimes/news",
-      "createdAt": "2026-10-27T08:00:00.859Z",
-      "updatedAt": "2026-10-27T08:00:00.859Z",
+      "createdAt": "2026-10-28T08:42:29.942Z",
+      "updatedAt": "2026-10-28T08:42:29.942Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 3364
@@ -2039,8 +2039,8 @@
         }
       },
       "id": "smithery-PubMed-https://smithery.ai/server/pubmed",
-      "createdAt": "2026-10-27T08:00:00.859Z",
-      "updatedAt": "2026-10-27T08:00:00.859Z",
+      "createdAt": "2026-10-28T08:42:29.943Z",
+      "updatedAt": "2026-10-28T08:42:29.943Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 3355
@@ -2070,8 +2070,8 @@
         }
       },
       "id": "smithery-Polymarket Data by PolymarketScan-https://smithery.ai/server/jordan-s648/PolymarketScan",
-      "createdAt": "2026-10-27T08:00:00.859Z",
-      "updatedAt": "2026-10-27T08:00:00.859Z",
+      "createdAt": "2026-10-28T08:42:29.943Z",
+      "updatedAt": "2026-10-28T08:42:29.943Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 3336
@@ -2101,11 +2101,43 @@
         }
       },
       "id": "smithery-sap-mcp-https://smithery.ai/server/oobe-protocol/sap-mcp",
-      "createdAt": "2026-10-27T08:00:00.859Z",
-      "updatedAt": "2026-10-27T08:00:00.859Z",
+      "createdAt": "2026-10-28T08:42:29.943Z",
+      "updatedAt": "2026-10-28T08:42:29.943Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 3295
+    },
+    {
+      "name": "binance-agentic-wallet",
+      "description": "Real Skills.sh listing at /binance/binance-skills-hub/binance-agentic-wallet. Installs are parsed from the page's public schema.org InstallAction metadata.",
+      "platform": "skills-sh",
+      "sourceUrl": "https://skills.sh/binance/binance-skills-hub/binance-agentic-wallet",
+      "tags": [
+        "skills.sh",
+        "binance",
+        "binance-skills-hub"
+      ],
+      "category": "Agent Workflow",
+      "downloads": 23376,
+      "installs": 23376,
+      "stars": 0,
+      "views": 23376,
+      "metricEvidence": {
+        "installs": {
+          "source": "Skills.sh JSON-LD",
+          "url": "https://skills.sh/binance/binance-skills-hub/binance-agentic-wallet"
+        },
+        "downloads": {
+          "source": "Skills.sh installs used as install/download signal",
+          "url": "https://skills.sh/binance/binance-skills-hub/binance-agentic-wallet"
+        }
+      },
+      "id": "skills-sh-binance-agentic-wallet-https://skills.sh/binance/binance-skills-hub/binance-agentic-wallet",
+      "createdAt": "2026-10-28T08:42:23.347Z",
+      "updatedAt": "2026-10-28T08:42:23.347Z",
+      "rankDelta": 0,
+      "isNewEntrant": false,
+      "trendingScore": 3181
     },
     {
       "name": "OneSignal",
@@ -2132,43 +2164,11 @@
         }
       },
       "id": "smithery-OneSignal-https://smithery.ai/server/onesignal/onesignal",
-      "createdAt": "2026-10-27T08:00:00.859Z",
-      "updatedAt": "2026-10-27T08:00:00.859Z",
+      "createdAt": "2026-10-28T08:42:29.942Z",
+      "updatedAt": "2026-10-28T08:42:29.942Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 3169
-    },
-    {
-      "name": "binance-agentic-wallet",
-      "description": "Real Skills.sh listing at /binance/binance-skills-hub/binance-agentic-wallet. Installs are parsed from the page's public schema.org InstallAction metadata.",
-      "platform": "skills-sh",
-      "sourceUrl": "https://skills.sh/binance/binance-skills-hub/binance-agentic-wallet",
-      "tags": [
-        "skills.sh",
-        "binance",
-        "binance-skills-hub"
-      ],
-      "category": "Agent Workflow",
-      "downloads": 19195,
-      "installs": 19195,
-      "stars": 0,
-      "views": 19195,
-      "metricEvidence": {
-        "installs": {
-          "source": "Skills.sh JSON-LD",
-          "url": "https://skills.sh/binance/binance-skills-hub/binance-agentic-wallet"
-        },
-        "downloads": {
-          "source": "Skills.sh installs used as install/download signal",
-          "url": "https://skills.sh/binance/binance-skills-hub/binance-agentic-wallet"
-        }
-      },
-      "id": "skills-sh-binance-agentic-wallet-https://skills.sh/binance/binance-skills-hub/binance-agentic-wallet",
-      "createdAt": "2026-10-27T07:59:56.786Z",
-      "updatedAt": "2026-10-27T07:59:56.786Z",
-      "rankDelta": 0,
-      "isNewEntrant": false,
-      "trendingScore": 3123
     },
     {
       "name": "SubwayInfo NYC",
@@ -2195,8 +2195,8 @@
         }
       },
       "id": "smithery-SubwayInfo NYC-https://smithery.ai/server/subwayinfo",
-      "createdAt": "2026-10-27T08:00:00.859Z",
-      "updatedAt": "2026-10-27T08:00:00.859Z",
+      "createdAt": "2026-10-28T08:42:29.942Z",
+      "updatedAt": "2026-10-28T08:42:29.942Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 3085
@@ -2226,8 +2226,8 @@
         }
       },
       "id": "smithery-Google Calendar-https://smithery.ai/server/googlecalendar",
-      "createdAt": "2026-10-27T08:00:00.859Z",
-      "updatedAt": "2026-10-27T08:00:00.859Z",
+      "createdAt": "2026-10-28T08:42:29.943Z",
+      "updatedAt": "2026-10-28T08:42:29.943Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 3064
@@ -2257,8 +2257,8 @@
         }
       },
       "id": "smithery-Slack-https://smithery.ai/server/slack",
-      "createdAt": "2026-10-27T08:00:00.859Z",
-      "updatedAt": "2026-10-27T08:00:00.859Z",
+      "createdAt": "2026-10-28T08:42:29.943Z",
+      "updatedAt": "2026-10-28T08:42:29.943Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 2987
@@ -2288,8 +2288,8 @@
         }
       },
       "id": "smithery-Exa Search-https://smithery.ai/server/exa",
-      "createdAt": "2026-10-27T08:00:00.859Z",
-      "updatedAt": "2026-10-27T08:00:00.859Z",
+      "createdAt": "2026-10-28T08:42:29.942Z",
+      "updatedAt": "2026-10-28T08:42:29.942Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 2905
@@ -2319,8 +2319,8 @@
         }
       },
       "id": "smithery-FavCRM — Agentic CRM-https://smithery.ai/server/favcrm/favcrm",
-      "createdAt": "2026-10-27T08:00:00.859Z",
-      "updatedAt": "2026-10-27T08:00:00.859Z",
+      "createdAt": "2026-10-28T08:42:29.943Z",
+      "updatedAt": "2026-10-28T08:42:29.943Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 2883
@@ -2350,8 +2350,8 @@
         }
       },
       "id": "smithery-Google Drive-https://smithery.ai/server/googledrive",
-      "createdAt": "2026-10-27T08:00:00.859Z",
-      "updatedAt": "2026-10-27T08:00:00.859Z",
+      "createdAt": "2026-10-28T08:42:29.943Z",
+      "updatedAt": "2026-10-28T08:42:29.943Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 2868
@@ -2381,8 +2381,8 @@
         }
       },
       "id": "smithery-Google BigQuery-https://smithery.ai/server/bigquery",
-      "createdAt": "2026-10-27T08:00:00.859Z",
-      "updatedAt": "2026-10-27T08:00:00.859Z",
+      "createdAt": "2026-10-28T08:42:29.943Z",
+      "updatedAt": "2026-10-28T08:42:29.943Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 2824
@@ -2412,8 +2412,8 @@
         }
       },
       "id": "smithery-DevMatch-https://smithery.ai/server/zachary-royals/devmatch",
-      "createdAt": "2026-10-27T08:00:00.859Z",
-      "updatedAt": "2026-10-27T08:00:00.859Z",
+      "createdAt": "2026-10-28T08:42:29.943Z",
+      "updatedAt": "2026-10-28T08:42:29.943Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 2822
@@ -2443,8 +2443,8 @@
         }
       },
       "id": "smithery-GitHub-https://smithery.ai/server/github",
-      "createdAt": "2026-10-27T08:00:00.859Z",
-      "updatedAt": "2026-10-27T08:00:00.859Z",
+      "createdAt": "2026-10-28T08:42:29.943Z",
+      "updatedAt": "2026-10-28T08:42:29.943Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 2775
@@ -2474,8 +2474,8 @@
         }
       },
       "id": "smithery-URL Safety Validator MCP-https://smithery.ai/server/OjasKord/url-safety-validator-mcp",
-      "createdAt": "2026-10-27T08:00:00.859Z",
-      "updatedAt": "2026-10-27T08:00:00.859Z",
+      "createdAt": "2026-10-28T08:42:29.943Z",
+      "updatedAt": "2026-10-28T08:42:29.943Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 2761
@@ -2505,8 +2505,8 @@
         }
       },
       "id": "smithery-Context7-https://smithery.ai/server/upstash/context7-mcp",
-      "createdAt": "2026-10-27T08:00:00.859Z",
-      "updatedAt": "2026-10-27T08:00:00.859Z",
+      "createdAt": "2026-10-28T08:42:29.943Z",
+      "updatedAt": "2026-10-28T08:42:29.943Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 2757
@@ -2526,10 +2526,10 @@
       "category": "MCP",
       "downloads": 0,
       "installs": 0,
-      "stars": 393580,
-      "views": 492238,
+      "stars": 399199,
+      "views": 499351,
       "createdAt": "2026-04-14T00:51:32Z",
-      "updatedAt": "2026-10-27T07:59:52Z",
+      "updatedAt": "2026-10-28T08:41:58Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -2539,7 +2539,7 @@
       "id": "github-morluto/rea-https://github.com/morluto/rea",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 2606
+      "trendingScore": 2608
     },
     {
       "name": "obra/superpowers",
@@ -2556,10 +2556,10 @@
       "category": "Agent Workflow",
       "downloads": 0,
       "installs": 0,
-      "stars": 305783,
-      "views": 333021,
+      "stars": 306782,
+      "views": 334091,
       "createdAt": "2025-10-09T19:45:18Z",
-      "updatedAt": "2026-10-27T07:57:45Z",
+      "updatedAt": "2026-10-28T08:40:21Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -2582,10 +2582,10 @@
       "category": "Agent Workflow",
       "downloads": 0,
       "installs": 0,
-      "stars": 304335,
-      "views": 329951,
+      "stars": 305163,
+      "views": 330835,
       "createdAt": "2026-02-03T11:15:53Z",
-      "updatedAt": "2026-10-27T07:58:10Z",
+      "updatedAt": "2026-10-28T08:41:46Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -2595,7 +2595,7 @@
       "id": "github-mattpocock/skills-https://github.com/mattpocock/skills",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 2554
+      "trendingScore": 2555
     },
     {
       "name": "affaan-m/ECC",
@@ -2612,10 +2612,10 @@
       "category": "Data Analysis",
       "downloads": 0,
       "installs": 0,
-      "stars": 290143,
-      "views": 333145,
+      "stars": 291198,
+      "views": 334310,
       "createdAt": "2026-01-18T00:51:51Z",
-      "updatedAt": "2026-10-27T07:59:35Z",
+      "updatedAt": "2026-10-28T08:42:01Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -2642,10 +2642,10 @@
       "category": "Data Analysis",
       "downloads": 0,
       "installs": 0,
-      "stars": 257518,
-      "views": 313951,
+      "stars": 257873,
+      "views": 314431,
       "createdAt": "2025-07-22T22:22:28Z",
-      "updatedAt": "2026-10-27T07:56:42Z",
+      "updatedAt": "2026-10-28T08:40:20Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -2656,6 +2656,36 @@
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 2536
+    },
+    {
+      "name": "Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "platform": "github",
+      "sourceUrl": "https://github.com/Significant-Gravitas/AutoGPT",
+      "tags": [
+        "github",
+        "agentic-ai",
+        "agents",
+        "ai",
+        "artificial-intelligence"
+      ],
+      "category": "Agent Workflow",
+      "downloads": 0,
+      "installs": 0,
+      "stars": 187797,
+      "views": 233700,
+      "createdAt": "2023-03-16T09:21:07Z",
+      "updatedAt": "2026-10-28T08:38:58Z",
+      "metricEvidence": {
+        "stars": {
+          "source": "GitHub Search API stargazers_count",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT"
+        }
+      },
+      "id": "github-Significant-Gravitas/AutoGPT-https://github.com/Significant-Gravitas/AutoGPT",
+      "rankDelta": 0,
+      "isNewEntrant": false,
+      "trendingScore": 2486
     },
     {
       "name": "firecrawl/firecrawl",
@@ -2672,10 +2702,10 @@
       "category": "Data Analysis",
       "downloads": 0,
       "installs": 0,
-      "stars": 195796,
-      "views": 206132,
+      "stars": 196193,
+      "views": 206556,
       "createdAt": "2024-04-15T21:02:29Z",
-      "updatedAt": "2026-10-27T07:58:43Z",
+      "updatedAt": "2026-10-28T08:40:33Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -2699,10 +2729,10 @@
       "category": "Agent Workflow",
       "downloads": 0,
       "installs": 0,
-      "stars": 184070,
-      "views": 205846,
+      "stars": 184346,
+      "views": 206153,
       "createdAt": "2025-09-22T15:53:31Z",
-      "updatedAt": "2026-10-27T07:59:25Z",
+      "updatedAt": "2026-10-28T08:41:41Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -2725,10 +2755,10 @@
       "category": "Agent Workflow",
       "downloads": 0,
       "installs": 0,
-      "stars": 164360,
-      "views": 190871,
+      "stars": 164636,
+      "views": 191189,
       "createdAt": "2025-10-13T12:12:29Z",
-      "updatedAt": "2026-10-27T07:55:06Z",
+      "updatedAt": "2026-10-28T08:42:21Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -2738,7 +2768,7 @@
       "id": "github-msitarzewski/agency-agents-https://github.com/msitarzewski/agency-agents",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 2460
+      "trendingScore": 2461
     },
     {
       "name": "langgenius/dify",
@@ -2755,10 +2785,10 @@
       "category": "MCP",
       "downloads": 0,
       "installs": 0,
-      "stars": 159666,
-      "views": 184900,
+      "stars": 159783,
+      "views": 185028,
       "createdAt": "2023-04-12T07:40:24Z",
-      "updatedAt": "2026-10-27T07:59:43Z",
+      "updatedAt": "2026-10-28T08:41:02Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -2768,7 +2798,7 @@
       "id": "github-langgenius/dify-https://github.com/langgenius/dify",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 2455
+      "trendingScore": 2456
     },
     {
       "name": "langflow-ai/langflow",
@@ -2785,10 +2815,10 @@
       "category": "Agent Workflow",
       "downloads": 0,
       "installs": 0,
-      "stars": 156052,
-      "views": 166302,
+      "stars": 156084,
+      "views": 166340,
       "createdAt": "2023-02-08T22:28:03Z",
-      "updatedAt": "2026-10-27T07:27:58Z",
+      "updatedAt": "2026-10-28T08:12:03Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -2815,10 +2845,10 @@
       "category": "MCP",
       "downloads": 0,
       "installs": 0,
-      "stars": 149159,
-      "views": 158969,
+      "stars": 149577,
+      "views": 159405,
       "createdAt": "2025-08-04T14:16:16Z",
-      "updatedAt": "2026-10-27T07:59:25Z",
+      "updatedAt": "2026-10-28T08:41:31Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -2845,10 +2875,10 @@
       "category": "Agent Workflow",
       "downloads": 0,
       "installs": 0,
-      "stars": 143192,
-      "views": 164264,
+      "stars": 143273,
+      "views": 164354,
       "createdAt": "2024-04-29T05:30:25Z",
-      "updatedAt": "2026-10-27T07:50:16Z",
+      "updatedAt": "2026-10-28T08:39:13Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -2875,10 +2905,10 @@
       "category": "Coding",
       "downloads": 0,
       "installs": 0,
-      "stars": 141132,
-      "views": 156088,
+      "stars": 141762,
+      "views": 156780,
       "createdAt": "2025-11-30T11:36:31Z",
-      "updatedAt": "2026-10-27T07:58:54Z",
+      "updatedAt": "2026-10-28T08:38:54Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -2888,7 +2918,7 @@
       "id": "github-nextlevelbuilder/ui-ux-pro-max-skill-https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 2432
+      "trendingScore": 2433
     },
     {
       "name": "garrytan/gstack",
@@ -2901,10 +2931,10 @@
       "category": "Coding",
       "downloads": 0,
       "installs": 0,
-      "stars": 137864,
-      "views": 158307,
+      "stars": 137990,
+      "views": 158454,
       "createdAt": "2026-03-11T21:22:45Z",
-      "updatedAt": "2026-10-27T07:57:16Z",
+      "updatedAt": "2026-10-28T08:36:57Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -2931,10 +2961,10 @@
       "category": "Data Analysis",
       "downloads": 0,
       "installs": 0,
-      "stars": 136419,
-      "views": 149437,
+      "stars": 137237,
+      "views": 150330,
       "createdAt": "2026-04-03T15:49:07Z",
-      "updatedAt": "2026-10-27T07:59:56Z",
+      "updatedAt": "2026-10-28T08:42:25Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -2944,7 +2974,7 @@
       "id": "github-Graphify-Labs/graphify-https://github.com/Graphify-Labs/graphify",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 2426
+      "trendingScore": 2427
     },
     {
       "name": "addyosmani/agent-skills",
@@ -2961,10 +2991,10 @@
       "category": "Agent Workflow",
       "downloads": 0,
       "installs": 0,
-      "stars": 110898,
-      "views": 122494,
+      "stars": 111265,
+      "views": 122906,
       "createdAt": "2026-02-15T20:20:26Z",
-      "updatedAt": "2026-10-27T07:58:51Z",
+      "updatedAt": "2026-10-28T08:41:25Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -2991,10 +3021,10 @@
       "category": "MCP",
       "downloads": 0,
       "installs": 0,
-      "stars": 107771,
-      "views": 125644,
+      "stars": 108121,
+      "views": 126041,
       "createdAt": "2026-03-02T15:01:51Z",
-      "updatedAt": "2026-10-27T07:59:57Z",
+      "updatedAt": "2026-10-28T08:35:30Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -3021,10 +3051,10 @@
       "category": "MCP",
       "downloads": 0,
       "installs": 0,
-      "stars": 108564,
-      "views": 123414,
+      "stars": 108592,
+      "views": 123450,
       "createdAt": "2025-04-17T17:04:31Z",
-      "updatedAt": "2026-10-27T07:53:41Z",
+      "updatedAt": "2026-10-28T07:47:48Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -3051,10 +3081,10 @@
       "category": "MCP",
       "downloads": 0,
       "installs": 0,
-      "stars": 88901,
-      "views": 147613,
+      "stars": 88905,
+      "views": 147605,
       "createdAt": "2023-03-10T18:27:54Z",
-      "updatedAt": "2026-10-27T07:49:45Z",
+      "updatedAt": "2026-10-28T08:23:08Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -3081,10 +3111,10 @@
       "category": "Agent Workflow",
       "downloads": 0,
       "installs": 0,
-      "stars": 104245,
-      "views": 116160,
+      "stars": 104489,
+      "views": 116420,
       "createdAt": "2026-04-28T04:25:20Z",
-      "updatedAt": "2026-10-27T07:52:25Z",
+      "updatedAt": "2026-10-28T08:37:16Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -3094,7 +3124,7 @@
       "id": "github-nexu-io/open-design-https://github.com/nexu-io/open-design",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 2384
+      "trendingScore": 2385
     },
     {
       "name": "Panniantong/Agent-Reach",
@@ -3111,10 +3141,10 @@
       "category": "Data Analysis",
       "downloads": 0,
       "installs": 0,
-      "stars": 104228,
-      "views": 113467,
+      "stars": 105184,
+      "views": 114506,
       "createdAt": "2026-02-24T02:10:24Z",
-      "updatedAt": "2026-10-27T07:59:25Z",
+      "updatedAt": "2026-10-28T08:42:17Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -3124,7 +3154,7 @@
       "id": "github-Panniantong/Agent-Reach-https://github.com/Panniantong/Agent-Reach",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 2383
+      "trendingScore": 2384
     },
     {
       "name": "thedotmack/claude-mem",
@@ -3141,10 +3171,10 @@
       "category": "Agent Workflow",
       "downloads": 0,
       "installs": 0,
-      "stars": 103526,
-      "views": 112662,
+      "stars": 103819,
+      "views": 112985,
       "createdAt": "2025-08-31T20:50:03Z",
-      "updatedAt": "2026-10-27T07:58:00Z",
+      "updatedAt": "2026-10-28T08:41:37Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -3154,7 +3184,7 @@
       "id": "github-thedotmack/claude-mem-https://github.com/thedotmack/claude-mem",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 2381
+      "trendingScore": 2382
     },
     {
       "name": "Leonxlnx/taste-skill",
@@ -3171,10 +3201,10 @@
       "category": "Browser Automation",
       "downloads": 0,
       "installs": 0,
-      "stars": 103208,
-      "views": 110186,
+      "stars": 103907,
+      "views": 110932,
       "createdAt": "2026-02-19T21:44:05Z",
-      "updatedAt": "2026-10-27T07:58:48Z",
+      "updatedAt": "2026-10-28T08:41:52Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -3184,7 +3214,7 @@
       "id": "github-Leonxlnx/taste-skill-https://github.com/Leonxlnx/taste-skill",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 2380
+      "trendingScore": 2381
     },
     {
       "name": "ruvnet/RuView",
@@ -3201,10 +3231,10 @@
       "category": "Coding",
       "downloads": 0,
       "installs": 0,
-      "stars": 99890,
-      "views": 112953,
+      "stars": 100456,
+      "views": 113575,
       "createdAt": "2025-06-07T04:32:30Z",
-      "updatedAt": "2026-10-27T07:59:41Z",
+      "updatedAt": "2026-10-28T08:41:06Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -3214,7 +3244,7 @@
       "id": "github-ruvnet/RuView-https://github.com/ruvnet/RuView",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 2378
+      "trendingScore": 2379
     },
     {
       "name": "punkpeye/awesome-mcp-servers",
@@ -3229,10 +3259,10 @@
       "category": "MCP",
       "downloads": 0,
       "installs": 0,
-      "stars": 96915,
-      "views": 115494,
+      "stars": 96964,
+      "views": 115627,
       "createdAt": "2024-11-30T04:49:10Z",
-      "updatedAt": "2026-10-27T07:50:26Z",
+      "updatedAt": "2026-10-28T08:32:43Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -3259,10 +3289,10 @@
       "category": "MCP",
       "downloads": 0,
       "installs": 0,
-      "stars": 89617,
-      "views": 103396,
+      "stars": 89695,
+      "views": 103493,
       "createdAt": "2026-01-08T17:26:06Z",
-      "updatedAt": "2026-10-27T07:26:14Z",
+      "updatedAt": "2026-10-28T08:12:14Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -3289,10 +3319,10 @@
       "category": "Browser Automation",
       "downloads": 0,
       "installs": 0,
-      "stars": 89937,
-      "views": 99234,
+      "stars": 90114,
+      "views": 99432,
       "createdAt": "2024-10-13T20:29:53Z",
-      "updatedAt": "2026-10-27T07:54:50Z",
+      "updatedAt": "2026-10-28T08:31:54Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -3303,6 +3333,36 @@
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 2360
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "platform": "github",
+      "sourceUrl": "https://github.com/pbakaus/impeccable",
+      "tags": [
+        "github",
+        "agent-skills",
+        "ai",
+        "anti-slop",
+        "design"
+      ],
+      "category": "Agent Workflow",
+      "downloads": 0,
+      "installs": 0,
+      "stars": 91098,
+      "views": 96495,
+      "createdAt": "2025-11-16T01:52:04Z",
+      "updatedAt": "2026-10-28T08:41:43Z",
+      "metricEvidence": {
+        "stars": {
+          "source": "GitHub Search API stargazers_count",
+          "url": "https://github.com/pbakaus/impeccable"
+        }
+      },
+      "id": "github-pbakaus/impeccable-https://github.com/pbakaus/impeccable",
+      "rankDelta": 0,
+      "isNewEntrant": false,
+      "trendingScore": 2359
     },
     {
       "name": "tt-a1i/archify",
@@ -3319,10 +3379,10 @@
       "category": "Agent Workflow",
       "downloads": 0,
       "installs": 0,
-      "stars": 90041,
-      "views": 96147,
+      "stars": 90692,
+      "views": 96849,
       "createdAt": "2026-04-15T05:27:37Z",
-      "updatedAt": "2026-10-27T07:59:11Z",
+      "updatedAt": "2026-10-28T08:42:18Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -3332,7 +3392,7 @@
       "id": "github-tt-a1i/archify-https://github.com/tt-a1i/archify",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 2358
+      "trendingScore": 2359
     },
     {
       "name": "datawhalechina/hello-agents",
@@ -3349,10 +3409,10 @@
       "category": "Agent Workflow",
       "downloads": 0,
       "installs": 0,
-      "stars": 84862,
-      "views": 95403,
+      "stars": 85068,
+      "views": 95636,
       "createdAt": "2025-09-07T09:50:24Z",
-      "updatedAt": "2026-10-27T07:56:54Z",
+      "updatedAt": "2026-10-28T08:39:14Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -3379,10 +3439,10 @@
       "category": "Data Analysis",
       "downloads": 0,
       "installs": 0,
-      "stars": 84465,
-      "views": 96294,
+      "stars": 84531,
+      "views": 96372,
       "createdAt": "2025-05-07T02:50:19Z",
-      "updatedAt": "2026-10-27T07:56:09Z",
+      "updatedAt": "2026-10-28T08:25:28Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -3409,10 +3469,10 @@
       "category": "MCP",
       "downloads": 0,
       "installs": 0,
-      "stars": 81606,
-      "views": 93597,
+      "stars": 81986,
+      "views": 94064,
       "createdAt": "2026-02-13T12:38:31Z",
-      "updatedAt": "2026-10-27T07:52:07Z",
+      "updatedAt": "2026-10-28T08:36:08Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -3422,7 +3482,7 @@
       "id": "github-cheaper-inference/OmniRoute-https://github.com/cheaper-inference/OmniRoute",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 2347
+      "trendingScore": 2348
     },
     {
       "name": "ruvnet/ruflo",
@@ -3439,10 +3499,10 @@
       "category": "MCP",
       "downloads": 0,
       "installs": 0,
-      "stars": 79630,
-      "views": 88980,
+      "stars": 79854,
+      "views": 89222,
       "createdAt": "2025-06-02T21:24:20Z",
-      "updatedAt": "2026-10-27T07:59:40Z",
+      "updatedAt": "2026-10-28T08:41:42Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -3452,37 +3512,7 @@
       "id": "github-ruvnet/ruflo-https://github.com/ruvnet/ruflo",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 2341
-    },
-    {
-      "name": "career-ops-hq/career-ops",
-      "description": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job application tracker. It helps you fill in each application; you press Submit. Runs locally in your AI coding CLI (Claude Code, Codex, OpenCode and more).",
-      "platform": "github",
-      "sourceUrl": "https://github.com/career-ops-hq/career-ops",
-      "tags": [
-        "github",
-        "agent-skills",
-        "ai-agent",
-        "ai-job-search",
-        "ats"
-      ],
-      "category": "Data Analysis",
-      "downloads": 0,
-      "installs": 0,
-      "stars": 77712,
-      "views": 92082,
-      "createdAt": "2026-04-04T18:21:18Z",
-      "updatedAt": "2026-10-27T07:54:41Z",
-      "metricEvidence": {
-        "stars": {
-          "source": "GitHub Search API stargazers_count",
-          "url": "https://github.com/career-ops-hq/career-ops"
-        }
-      },
-      "id": "github-career-ops-hq/career-ops-https://github.com/career-ops-hq/career-ops",
-      "rankDelta": 0,
-      "isNewEntrant": false,
-      "trendingScore": 2341
+      "trendingScore": 2342
     },
     {
       "name": "ComposioHQ/awesome-claude-skills",
@@ -3499,10 +3529,10 @@
       "category": "MCP",
       "downloads": 0,
       "installs": 0,
-      "stars": 78036,
-      "views": 87392,
+      "stars": 78126,
+      "views": 87504,
       "createdAt": "2025-10-17T07:15:01Z",
-      "updatedAt": "2026-10-27T07:52:40Z",
+      "updatedAt": "2026-10-28T08:31:23Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -3529,10 +3559,10 @@
       "category": "MCP",
       "downloads": 0,
       "installs": 0,
-      "stars": 77966,
-      "views": 84030,
+      "stars": 78078,
+      "views": 84156,
       "createdAt": "2026-01-07T19:58:51Z",
-      "updatedAt": "2026-10-27T07:53:09Z",
+      "updatedAt": "2026-10-28T08:38:44Z",
       "metricEvidence": {
         "stars": {
           "source": "GitHub Search API stargazers_count",
@@ -3546,7 +3576,7 @@
     },
     {
       "name": "Reverse Engineer Anything Empower coding",
-      "description": "Reverse Engineer Anything Empower coding agents to deeply inspect and understand software applications, from high-level features down to their binary implementation. Developer Tools Security & Testing 392k",
+      "description": "Reverse Engineer Anything Empower coding agents to deeply inspect and understand software applications, from high-level features down to their binary implementation. Developer Tools Security & Testing 397k",
       "platform": "mcp-market",
       "sourceUrl": "https://mcpmarket.com/server/reverse-engineer-anything",
       "tags": [
@@ -3554,16 +3584,16 @@
         "mcp"
       ],
       "category": "Agent Workflow",
-      "downloads": 392000,
+      "downloads": 397000,
       "installs": 0,
       "stars": 0,
       "views": 0,
       "id": "mcp-market-Reverse Engineer Anything Empower coding-https://mcpmarket.com/server/reverse-engineer-anything",
-      "createdAt": "2026-10-27T07:59:59.616Z",
-      "updatedAt": "2026-10-27T07:59:59.616Z",
+      "createdAt": "2026-10-28T08:42:27.767Z",
+      "updatedAt": "2026-10-28T08:42:27.767Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 2176
+      "trendingScore": 2178
     },
     {
       "name": "Superpowers Empowers AI coding agents",
@@ -3580,8 +3610,8 @@
       "stars": 0,
       "views": 0,
       "id": "mcp-market-Superpowers Empowers AI coding agents-https://mcpmarket.com/server/superpowers",
-      "createdAt": "2026-10-27T07:59:59.616Z",
-      "updatedAt": "2026-10-27T07:59:59.616Z",
+      "createdAt": "2026-10-28T08:42:27.767Z",
+      "updatedAt": "2026-10-28T08:42:27.767Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 2146
@@ -3601,15 +3631,15 @@
       "stars": 0,
       "views": 0,
       "id": "mcp-market-World Monitor Provides real-time global-https://mcpmarket.com/server/world-monitor",
-      "createdAt": "2026-10-27T07:59:59.616Z",
-      "updatedAt": "2026-10-27T07:59:59.616Z",
+      "createdAt": "2026-10-28T08:42:27.767Z",
+      "updatedAt": "2026-10-28T08:42:27.767Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 1997
     },
     {
       "name": "Ruflo Orchestrates intelligent multi-agent swarms",
-      "description": "Ruflo Orchestrates intelligent multi-agent swarms for Claude, coordinating autonomous workflows and building conversational AI systems. Developer Tools Data Science & ML 79k",
+      "description": "Ruflo Orchestrates intelligent multi-agent swarms for Claude, coordinating autonomous workflows and building conversational AI systems. Developer Tools Data Science & ML 80k",
       "platform": "mcp-market",
       "sourceUrl": "https://mcpmarket.com/server/ruflo",
       "tags": [
@@ -3617,16 +3647,16 @@
         "mcp"
       ],
       "category": "Data Analysis",
-      "downloads": 79000,
+      "downloads": 80000,
       "installs": 0,
       "stars": 0,
       "views": 0,
       "id": "mcp-market-Ruflo Orchestrates intelligent multi-agent swarms-https://mcpmarket.com/server/ruflo",
-      "createdAt": "2026-10-27T07:59:59.616Z",
-      "updatedAt": "2026-10-27T07:59:59.616Z",
+      "createdAt": "2026-10-28T08:42:27.767Z",
+      "updatedAt": "2026-10-28T08:42:27.767Z",
       "rankDelta": 0,
       "isNewEntrant": false,
-      "trendingScore": 1981
+      "trendingScore": 1983
     },
     {
       "name": "OpenSpec Facilitates spec-driven development to",
@@ -3643,8 +3673,8 @@
       "stars": 0,
       "views": 0,
       "id": "mcp-market-OpenSpec Facilitates spec-driven development to-https://mcpmarket.com/server/openspec",
-      "createdAt": "2026-10-27T07:59:59.616Z",
-      "updatedAt": "2026-10-27T07:59:59.616Z",
+      "createdAt": "2026-10-28T08:42:27.767Z",
+      "updatedAt": "2026-10-28T08:42:27.767Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 1972
@@ -3664,8 +3694,8 @@
       "stars": 0,
       "views": 0,
       "id": "mcp-market-Context7 Fetches up-to-date documentation and-https://mcpmarket.com/server/context7-1",
-      "createdAt": "2026-10-27T07:59:59.616Z",
-      "updatedAt": "2026-10-27T07:59:59.616Z",
+      "createdAt": "2026-10-28T08:42:27.766Z",
+      "updatedAt": "2026-10-28T08:42:27.766Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 1956
@@ -3685,8 +3715,8 @@
       "stars": 0,
       "views": 0,
       "id": "mcp-market-Magic Generate modern UI components-https://mcpmarket.com/server/magic-1",
-      "createdAt": "2026-10-27T07:59:59.615Z",
-      "updatedAt": "2026-10-27T07:59:59.615Z",
+      "createdAt": "2026-10-28T08:42:27.766Z",
+      "updatedAt": "2026-10-28T08:42:27.766Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 1674
@@ -3706,8 +3736,8 @@
       "stars": 0,
       "views": 0,
       "id": "mcp-market-Excalidraw Stream hand-drawn diagrams with-https://mcpmarket.com/server/excalidraw-4",
-      "createdAt": "2026-10-27T07:59:59.616Z",
-      "updatedAt": "2026-10-27T07:59:59.616Z",
+      "createdAt": "2026-10-28T08:42:27.767Z",
+      "updatedAt": "2026-10-28T08:42:27.767Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 1660
@@ -3727,8 +3757,8 @@
       "stars": 0,
       "views": 0,
       "id": "mcp-market-Exa Enables AI assistants like-https://mcpmarket.com/server/exa",
-      "createdAt": "2026-10-27T07:59:59.616Z",
-      "updatedAt": "2026-10-27T07:59:59.616Z",
+      "createdAt": "2026-10-28T08:42:27.766Z",
+      "updatedAt": "2026-10-28T08:42:27.766Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 1651
@@ -3748,8 +3778,8 @@
       "stars": 0,
       "views": 0,
       "id": "mcp-market-Notion Implements a Model Context-https://mcpmarket.com/server/notion-12",
-      "createdAt": "2026-10-27T07:59:59.616Z",
-      "updatedAt": "2026-10-27T07:59:59.616Z",
+      "createdAt": "2026-10-28T08:42:27.767Z",
+      "updatedAt": "2026-10-28T08:42:27.767Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 1638
@@ -3769,8 +3799,8 @@
       "stars": 0,
       "views": 0,
       "id": "mcp-market-Firecrawl Empowers LLMs with advanced-https://mcpmarket.com/server/firecrawl",
-      "createdAt": "2026-10-27T07:59:59.615Z",
-      "updatedAt": "2026-10-27T07:59:59.615Z",
+      "createdAt": "2026-10-28T08:42:27.766Z",
+      "updatedAt": "2026-10-28T08:42:27.766Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 1625
@@ -3790,8 +3820,8 @@
       "stars": 0,
       "views": 0,
       "id": "mcp-market-Browserbase Enables LLMs to control-https://mcpmarket.com/server/browserbase",
-      "createdAt": "2026-10-27T07:59:59.615Z",
-      "updatedAt": "2026-10-27T07:59:59.615Z",
+      "createdAt": "2026-10-28T08:42:27.766Z",
+      "updatedAt": "2026-10-28T08:42:27.766Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 1599
@@ -3811,8 +3841,8 @@
       "stars": 0,
       "views": 0,
       "id": "mcp-market-Tavily Integrates Tavily's search and-https://mcpmarket.com/server/tavily-1",
-      "createdAt": "2026-10-27T07:59:59.616Z",
-      "updatedAt": "2026-10-27T07:59:59.616Z",
+      "createdAt": "2026-10-28T08:42:27.766Z",
+      "updatedAt": "2026-10-28T08:42:27.766Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 1562
@@ -3832,8 +3862,8 @@
       "stars": 0,
       "views": 0,
       "id": "mcp-market-ElevenLabs Enables interaction with Text-https://mcpmarket.com/server/elevenlabs-1",
-      "createdAt": "2026-10-27T07:59:59.615Z",
-      "updatedAt": "2026-10-27T07:59:59.615Z",
+      "createdAt": "2026-10-28T08:42:27.766Z",
+      "updatedAt": "2026-10-28T08:42:27.766Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 1500
@@ -3853,15 +3883,15 @@
       "stars": 0,
       "views": 0,
       "id": "mcp-market-Atlassian Rovo Connects Atlassian Cloud-https://mcpmarket.com/server/atlassian-rovo",
-      "createdAt": "2026-10-27T07:59:59.616Z",
-      "updatedAt": "2026-10-27T07:59:59.616Z",
+      "createdAt": "2026-10-28T08:42:27.767Z",
+      "updatedAt": "2026-10-28T08:42:27.767Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 1463
     },
     {
       "name": "WordPress Exposes WordPress functionality through",
-      "description": "WordPress Exposes WordPress functionality through a standardized Model Context Protocol (MCP) interface for secure AI and application interaction. API Development Developer Tools 946",
+      "description": "WordPress Exposes WordPress functionality through a standardized Model Context Protocol (MCP) interface for secure AI and application interaction. API Development Developer Tools 947",
       "platform": "mcp-market",
       "sourceUrl": "https://mcpmarket.com/server/wordpress-3",
       "tags": [
@@ -3869,20 +3899,20 @@
         "mcp"
       ],
       "category": "MCP",
-      "downloads": 946,
+      "downloads": 947,
       "installs": 0,
       "stars": 0,
       "views": 0,
       "id": "mcp-market-WordPress Exposes WordPress functionality through-https://mcpmarket.com/server/wordpress-3",
-      "createdAt": "2026-10-27T07:59:59.616Z",
-      "updatedAt": "2026-10-27T07:59:59.616Z",
+      "createdAt": "2026-10-28T08:42:27.767Z",
+      "updatedAt": "2026-10-28T08:42:27.767Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 1445
     },
     {
       "name": "ClickHouse Provides an MCP server",
-      "description": "ClickHouse Provides an MCP server to interact with ClickHouse databases. Database Management Developer Tools 893",
+      "description": "ClickHouse Provides an MCP server to interact with ClickHouse databases. Database Management Developer Tools 897",
       "platform": "mcp-market",
       "sourceUrl": "https://mcpmarket.com/server/clickhouse",
       "tags": [
@@ -3890,13 +3920,13 @@
         "mcp"
       ],
       "category": "Data Analysis",
-      "downloads": 893,
+      "downloads": 897,
       "installs": 0,
       "stars": 0,
       "views": 0,
       "id": "mcp-market-ClickHouse Provides an MCP server-https://mcpmarket.com/server/clickhouse",
-      "createdAt": "2026-10-27T07:59:59.616Z",
-      "updatedAt": "2026-10-27T07:59:59.616Z",
+      "createdAt": "2026-10-28T08:42:27.767Z",
+      "updatedAt": "2026-10-28T08:42:27.767Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 1438
@@ -3916,8 +3946,8 @@
       "stars": 0,
       "views": 0,
       "id": "mcp-market-Railway Manages Railway account resources-https://mcpmarket.com/server/railway-1",
-      "createdAt": "2026-10-27T07:59:59.616Z",
-      "updatedAt": "2026-10-27T07:59:59.616Z",
+      "createdAt": "2026-10-28T08:42:27.767Z",
+      "updatedAt": "2026-10-28T08:42:27.767Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 1254
@@ -3937,8 +3967,8 @@
       "stars": 0,
       "views": 0,
       "id": "mcp-market-Miro Connects AI agents to-https://mcpmarket.com/server/miro-1",
-      "createdAt": "2026-10-27T07:59:59.616Z",
-      "updatedAt": "2026-10-27T07:59:59.616Z",
+      "createdAt": "2026-10-28T08:42:27.767Z",
+      "updatedAt": "2026-10-28T08:42:27.767Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 1237
@@ -3958,8 +3988,8 @@
       "stars": 0,
       "views": 0,
       "id": "mcp-market-PostHog Serves as an interface-https://mcpmarket.com/server/posthog-1",
-      "createdAt": "2026-10-27T07:59:59.616Z",
-      "updatedAt": "2026-10-27T07:59:59.616Z",
+      "createdAt": "2026-10-28T08:42:27.767Z",
+      "updatedAt": "2026-10-28T08:42:27.767Z",
       "rankDelta": 0,
       "isNewEntrant": false,
       "trendingScore": 1228
